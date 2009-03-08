@@ -1,0 +1,13 @@
+h3. What is this?
+
+This is a blogging engine based on "Webby":http://webby.rubyforge.org/tutorial/. This repository contains all the files that are used to generate my blog, "http://danieltenner.com":http://danieltenner.com. 
+
+h3. Can I use this stuff?
+
+All code is open to use for whatever purpose you have in mind (though I'd prefer if you used it for a good purposes). You can copy the content and images too (though I'd really rather you didn't copy the content, or if you do copy some of it, please include a link to my blog). If you want to use the danieltenner.com look/CSS/etc as a basis for your look, that's fine too (though I'd appreciate it if you evolved it over time rather than keeping it looking exactly the same).
+
+If you do find it useful, do let me know via github or using one of the numerous listed contact mechanisms on "my blog":http://danieltenner.com.
+
+h3. Credits
+
+The initial code for this was copied from "Rein Henrichs":http://reinh.com/. His version of the code is available on github too, "here":http://github.com/ReinH/reinh-com/tree/master. Please note that Rein is _not_ ok with you using his look'n'feel as a basis for your own blog.

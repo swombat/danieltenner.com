@@ -1,0 +1,27 @@
+---
+title:  Home
+layout: index
+author: Bob Leung, Daniel Tenner
+dirty:  true
+filter: erb
+---
+<% 
+	@all_pages = @pages.find(:all, :in_directory => "scribbles/posts", :recursive => true, :sort_by => "created_at", :reverse => true){|p| p.path !~ /\/index\.txt$/} 
+	@first_ten = @all_pages[0..9]
+	@first = @all_pages.first
+-%>
+
+<div id="all-posts">
+<% @first_ten.each do |page| -%>
+	<% unless page.thumbnail.nil? -%>
+		<div class="post-thumbnail"><a href="<%= page.url %>"><img src="/scribbles/images/<%= page.thumbnail %>" class="thumbnail"/></a></div>
+	<% end -%>
+	<div<% unless page.thumbnail.nil? %> class="post-right-column"<% end %>>
+	<h2 class="post-title short-line-height"><a href="<%= page.url %>"><%= Widont.widont page.title %></a></h2>
+	<div class="post-summary post-summary-short"><%= page.summary %></div>
+	<div class="post-excerpt"><%= RedCloth.new(page.excerpt + " <a href='#{page.url}' class='read-more'>(Read&nbsp;full&nbsp;article)</a>").to_html %></div>
+	<div style="clear:both; height: 5px">&nbsp;</div>
+	</div>
+	<div style="clear:both; height: 5px">&nbsp;</div>
+<% end -%>
+</div>

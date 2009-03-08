@@ -1,0 +1,53 @@
+---
+title:      Document control - how hard can it be?
+created_at: 2009-02-12 19:00:16.729769 -06:00
+author:     Daniel Tenner
+summary:    A look at a hard technological problem
+excerpt:    "There are many problems out there which are simple in most cases but can very difficult for edge cases. Here's the thing, though: sometimes, these edge cases can cover entire industries."
+layout:     post
+thumbnail:  document-control-thumbnail.png
+filter:
+  - textile
+---
+
+<div style="float:right; padding: 10px; padding-top: 0px; margin-top: 0px"><img src="/scribbles/images/document-control-1.png"/><br/><br/></div>
+
+There are many problems out there which are very easy to deal with in most situations, but can be very complex in edge cases. 
+
+Here's the thing, though: sometimes, these <b>"edge cases" can cover an entire industry</b>.
+
+The obvious example to me, since this is the Woobius blog, is document control in architecture (but we'll get to that a little bit later).
+
+Now, for most cases, document control is not a problem worth talking about. Most projects and companies get away with using Google Docs, Basecamp, or even nothing at all ("Can you email it to me again?" "I think I saved it on my desktop."). Even large corporations tend to simply not care much about this. I used to work in a bank, in projects that produced astounding amounts of documentation, and yet the only form of "document control" going on there was a Sharepoint for sharing a few highly visible documents (like weekly status reports) and a huge shared drive that contained a chaotic dump of all the project documentation. Maybe that's why they're losing so much money... heh.
+
+In most cases, you can get away with this because those documents are not essential to the main productive output of the business. An IT project in a bank might produce zillions of documents, but ultimately what brings home the bacon is whether the system they built works, and that's not directly related to whether their documentation is in order. Similarly, a web development shop might care about having solid terms and contracts with their clients, and might need to exchange files with them in the course of a project, but those files aren't the ultimate product - a functioning web site is.
+
+Interestingly, when you consider code a document, document control becomes extremely important on IT projects - except it's called source code control. There are a plethora of tools for controlling code versions: git, subversion, cvs, Mercurial... those are just some of the more popular free ones. Those tools are sophisticated, because controlling source code versions <b>really matters</b> when what you're delivering is built on source code. If your programmers used no source code control tools, you should be worried about the quality of that code. Rands, of <a href="http://www.randsinrepose.com">randsinrepose.com</a> fame, counts a version control tool as one of the <a href="http://www.randsinrepose.com/archives/2004/07/10/what_to_do_when_youre_screwed.html">4 tools that software engineers <b>really</b> need</a> (along with an editor, a compiler, and a bug tracking tool) for anything more complicated than a "hello world" application.
+
+<div style="float:left; padding: 10px; padding-top: 0px; margin-top: 0px"><img src="/scribbles/images/document-control-2.png"/><br/><br/></div>
+
+<h3>A building's source code</h3>
+
+Architects produce documents too - drawings. As my architect friends always tell me, those drawings are effectively the DNA of the building to be built, so <b>they matter, a lot</b>. If the drawings for your house weren't done properly, you should <b>move out now</b> - because the roof might fall on your head any time. It's very, very important that every drawing was well coordinated (reviewed properly by multiple experts, commented on, and adjusted accordingly) <i>before</i> the construction firm started laying bricks. Very bad things happen otherwise (and the architects will get sued for their last penny).
+
+This doesn't seem like such a hard problem to solve, at first sight. How many of these drawings can there be? Can it really be that hard to track them? Well, if your building is just 3 planks nailed together (a "hello world" app of architecture), you might get away with a Google Spreadsheet, but anything more complicated than an extension to your veranda typically requires dozens or even hundreds of drawings. A 5 million pounds building (a small apartment block) will involve hundreds to even thousands of drawings (each of which is a 1-2 MB file), and multiple revisions of each. Not only that, but it will involve dozens of companies (consultants during the design process, like structural engineers, quantity surveyors, etc, as well as contractors during construction). That's a lot of people to send files to, and a lot of people to receive files from.
+
+The scale of the problem really hit home for me when one of our architect cofounders took us to a construction site that was almost finished. It was a refurbishment of an old headquarters building, where they gutted the original building and then rebuilt on top of the existing frame (that's a lot more ecologically sound than rebuilding from scratch, since the existing structure represents a lot of energy that's been spent to build it, and destroying that is wasteful). We walked into a room, maybe 20 metres long and 15 wide, and the floor was covered with neatly arranged plastic boxes that contained binders full of <a href="http://en.wikipedia.org/wiki/Paper_size">A3</a> drawings (about 11 x 17 inches). There were maybe 60 or 70 of those boxes, each with about 10 binders. That, he said, was the <i>current version</i> of all the drawings for the west half of the building.
+
+<i>Half</i> the building. The drawings <b>barely</b> fit in that giant room.
+
+And those were not even usable drawings. Most drawings need to be printed in larger formats to be useful to the contractors. This room was just the real-life equivalent of a document control system for half a building (or, more accurately, an "organised document piles" system).
+
+<h3>And the winner is...</h3>
+
+To manage complexity on this scale, you'd imagine that they used a fantastic, fine tuned, super efficient system like you would on any coding project that big. Well, actually, it turns out, they didn't. They used email, CD couriers, and in many cases, good old snail mail.
+
+It's not that there aren't any systems out there that can do that, but they're very expensive, very hard to use, and very slow. They're so expensive that on the big office project I just mentioned, which cost almost 200 million pounds, the client refused to pay for any such tool, because it was too expensive, and no one else on the project wanted to pay for it themselves (because, well, it was very hard to use anyway). They're so complicated and time-consuming to use that all the companies involved would have had to hire a full-time "document controller" and train them to deal with it. They're so slow that architects would often have bypassed the system when deadlines neared, because they don't have the time to deal with it. It's a hard problem, and the solutions available are hard, so in most cases people go with fudged fixes and ignore the bigger picture.
+
+So actually, the winner is <b>nobody</b> - least of all the people who are building things.
+
+This is one thing we're trying to change at Woobius. We've designed a system that's quick and simple for architects, consultants and contractors to use, so that they won't bypass it under pressure (on the contrary, we've had feedback that that's when it helped most). We've carefully crafted it to be easy to use so that they won't need to hire specialist document controllers or install expensive software systems to deal with it. And we've constructed the business to make sure that the pricing for this system will be affordable for the vast majority of projects.
+
+But we haven't won (yet). So, until we do, there's still no winner, and the problem of document control on most construction projects remains a hard, unsolved problem.
+
+Have you got any good ideas about managing documents on this kind of scale? Please do share them in the discussion below or on <a href="http://news.ycombinator.com/item?id=479749">HN</a>.
