@@ -9,6 +9,10 @@ filter:
   - textile
 ---
 
+Why danieltenner.com?
+
+It’s a valid question.
+
 <div style="float:right; padding: 10px; padding-top: 0px; margin-top: 0px"><img src="/images/posts/0001-01.png"/><br/><br/></div>
 
 This is certainly not my first blog, and not my first page on the internet (I think the first was in 1996). As I learn and change, my pages change too.
