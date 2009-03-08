@@ -1,0 +1,42 @@
+---
+title:      Counting hours doesn't make sense
+created_at: 2009-02-25 17:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Start-ups
+subtitle:   Results aren't built out of hours
+excerpt:    "There's recently been some interesting discussion on the internet about \"How many hours\" people are putting in each day, inspired by a Slashdot poll.<br/><br/>This can be a sensitive topic. After all, everyone wants to do a good job, and the number of physical hours that you spend \"working\" is considered an objective measure of that. In some cases, that measure is considered positive (Fire people who are not workaholics, claimed Jason Calacanis before he changed his mind and toned it down to \"people who don't love their work\") or negative (Fire the workaholics, responded the ever controversial 37-signals blog)."
+layout:     post
+filter:
+  - textile
+---
+
+There's recently been some "interesting":http://news.ycombinator.com/item?id=492763 "discussion":http://news.ycombinator.com/item?id=493152 on the internet about "How many hours" people are putting in each day, inspired by a "Slashdot poll":http://slashdot.org/pollBooth.pl?qid=1719&aid=-1.
+
+This can be a sensitive topic. After all, everyone wants to do a good job, and the number of physical hours that you spend "working" is considered an objective measure of that. In some cases, that measure is considered positive ("Fire people who are not workaholics":http://calacanis.com/2008/03/07/how-to-save-money-running-a-startup-17-really-good-tips/, claimed Jason Calacanis before he changed his mind and toned it down to "people who don't love their work") or negative ("Fire the workaholics":http://www.37signals.com/svn/posts/902-fire-the-workaholics, responded the ever controversial 37-signals blog).
+
+<div align="center"><img src="/images/posts/0002-01.png" width="500"></div>
+
+When working in a self-employed, services job (e.g. freelancing), the idea that hours matter is deeply ingrained, because hours are the measurable thing that we charge for (even though what the client really cares about is getting the job done). In regular jobs", hours are also important, because they are the basis of the long-term contract between employer and employee ("Your working hours are from 9am to 6pm on weekdays, excluding public holidays"), and they are the first mechanism an employer will use to make sure you're working hard enough.
+
+This is all very interesting from the point of view of a technology start-up [1], because when you run your own start-up, and you have no one to impress with your long working hours, you end up realising that hours are immaterial. What matters is the quality of what you do, not how or when or for how long you do it. And that quality is not correlated with how long you are sitting down and focusing on your immediate "work tasks".
+
+When we measure results instead of hours, something interesting happens: the distinction between work and not-work blurs away and vanishes, for two reasons. First, clever ideas can make a huge difference to results, and ideas occur anywhere, at any time. In fact, they're least likely to occur while sitting at a desk working. Secondly, it soon becomes obvious that our actual output of things done is correlated far more to how we feel on the day than to how many hours we spend "working". The real measure of work is not hours &#8211; it's energy.
+
+We all have a certain amount of energy each day, that can fluctuate depending the day, on our general level of fitness, nutrition, health, state of mind, etc. Some activities (such as going to the gym) increase our daily pool of energy. Others (such as staying up all night or getting drunk every evening) decrease our daily pool of energy.
+
+Asking the wrong question can have very detrimental effects. It forces our mind to focus on the wrong approach. I don't get more done by sitting in front of my computer looking at work for an extra hour. I get far more done by investing time to exercise regularly so that I feel energetic.
+
+So the useful question is not "how many hours do you work?" but "how much energy do you put into your work?" Other useful questions that come with it are:
+
+<ul>
+	<li>How much of your daily energy do you spend increasing your total energy? Do you feel you spend enough? Do you feel you spend it on the right things?</li>
+	<li>How much of your daily energy do you waste each day? How do you define waste? Is all that waste really unproductive or does it have some beneficial side-effects? Are those side-effects sufficient to justify spending that energy?</li>
+	<li>Do you spend energy on things which actively hurt you?</li>
+	<li>Has your daily energy increased or decreased in the last 6 months? year? 5 years?</li>
+</ul>
+
+Any of these questions is more worthwhile than "How many hours do you work each day?"
+
+<div class="footnotes">
+fn1. This varies depending on the kind of business you run. If your business is to produce birthday cards, chances are there's a direct relationship between your hours and your success. The relationship breaks down for start-ups where the output is largely intellectual and leveraged (like a web-based application).
+</div>

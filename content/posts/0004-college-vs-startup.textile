@@ -1,0 +1,82 @@
+---
+title:      College vs Start-up
+created_at: 2009-03-02 17:00:00.000000 -00:00
+author:     Daniel Tenner
+subtitle:   It's not about the job!
+excerpt:    "Let's say you're 17, a high school student, passionate about web start-ups, and you just _know_ that you'll be starting your own one day. Should you go to university first? Should you get a degree? What use will it be? Is it worth it? Should you study computer science? IT management? An MBA? Physics? Maths? None of the above? Which will best prepare you for start-up life? More importantly, is that why you should go to university, or are there better reasons?"
+layout:     post
+filter:
+  - textile
+---
+
+Let's say you're 17, a high school student, passionate about web start-ups, and you just <em>know</em> that you'll be starting your own one day. Should you go to university first? Should you get a degree? What use will it be? Is it worth it? Should you study computer science? IT management? An MBA? Physics? Maths? None of the above? Which will best prepare you for start-up life? More importantly, is that why you should go to university, or are there better reasons?
+
+<div style="float:right; padding: 10px; padding-top: 0px; margin-top: 0px"><img src="/images/posts/0004-01.png" width="350"/></div>
+
+It's a tough question, particularly since it's going to have a big influence on the rest of your life. If you skip university, your life will be radically different than if you don't. If you're keeping track of the pulse of conversations online, you might have spotted a few discussions on the topic recently, such as "The Great College Hoax":http://www.forbes.com/forbes/2009/0202/060_print.html ("HN link":http://news.ycombinator.com/item?id=468051), published on Forbes, which makes the bold claim that colleges are outright scams, or a milder one by celebrity VC Fred Wilson, which claims that "you don't need a degree to be an entrepreneur":http://www.avc.com/a_vc/2009/02/one-thing-you-dont-need-to-be-an-entrepreneur-a-college-degree.html ("HN link":http://news.ycombinator.com/item?id=496754).
+
+My opinion on the subject is simple: if you have a thirst for learning, and you don't <em>have</em> to enter the workforce immediately (i.e. you can afford, somehow, a degree, without being financially irresponsible), then you absolutely <strong>should</strong> go to university, even if you have a start-up that you could work on right away. This is not because you <em>need</em> the degree for your future career, but because it's a great thing to spend your next 4 years on.
+
+Here's a breakdown of reasons why you should go to university rather than work on your start-up [1]:
+
+h3. Business ideas are a dime a dozen
+
+Perhaps you feel that you have <em>the</em> idea of the decade, that will make you millions. If so, I encourage you to read "this essay":http://paulgraham.com/ideas.html by Paul Graham, the friendly uncle of the start-up world. Don't worry about ideas. You'll have just as many, if not more, ideas when you come out of college as when you went in. Having a great idea is not a good reason to skip university.
+
+h3. You can drop out
+
+If you go to university and you decide that it's really not for you [2], or if you work on your venture on the side and it takes off, you can always drop out like many other famous entrepreneurs did before. No one's forcing you to stay. But at least, you'll drop out with the knowledge of what you're giving up, and, hopefully, you'll do it for something concrete that needs all your attention right now.
+
+h3. A good time
+
+University is an enjoyable way to spend four years. Start-ups aren't the only thing in life. If you focus yourself on work alone, without enjoying other pleasures along the way, you may well find out later that you missed out on the more fun parts of life.
+
+You don't need a degree to start a start-up, that's true. There are many other things that you don't need for your start-up, but which are still enjoyable and worthwhile parts of life. Having a girlfriend/boyfriend, and eventually a wife/husband and children, is not essential to your business. Neither is a university degree. But both can be great things to have in your life.
+
+h3. Learn things you would never have learned by yourself
+
+Many people think they need to do a degree in the profession that they will follow later (and, for some, such as architects, doctors and lawyers, that is true). For web entrepreneurs, an IT-related degree can seem like the obvious option. I believe that it's far more useful and interesting to study something else, something that you're interested in and that you know that you'd never get around to studying in depth otherwise.
+
+In my case, I've always had a thirst for figuring out how things work, so I quenched it by doing a degree in Physics. Many things I learned there are not directly useful to my life. Indirectly, however, my four years of Physics have shaped the way I think, the way I approach problems, and my approach to learning complicated topics. I would not have absorbed all these things if I hadn't done a Physics degree. There are some things you really have to be taught by someone, to learn them properly.
+
+I was genuinely interested in Physics, and that's why I chose that subject. This leads me to an important point: you should choose a subject based on your interests, rather than career usefulness. There is an unhealthy fashion these days to link degrees to jobs, as if a degree was the best way to train for a specific job (e.g. degrees in "Communications and Media" as training for Marketing or PR people). This isn't helping anyone, least of all the universities. You should do a degree because you care about the subject, not for the career prospects. Ultimately, university is supposed to train you for life, not for a job.
+
+Doing a degree in a subject that does not end up being your career gives you an extra perspective to look at things, an extra string on your bow.
+
+h3. The last place where people care to teach you
+
+Once you enter the workforce (for your own business or otherwise), <em>no one</em> cares what you learn. Corporations will make a token effort to give you some opportunity to better yourself via a training budget and various work-related courses, but university is truly the last place where you'll have teachers who really care about teaching you things (if they're any good at all).
+
+Moreover, they'll care about it for a long time. For years on end, a relatively small group of people will care about what you learn, will care that you become a better person through their teaching, and will care about your intellectual development. Believe me when I say that that will never happen again in your life (unless you go back to university, of course). The most attention you'll ever get from a corporate course is a couple of weeks of somewhat bored oversight.
+
+h3. A shelter where you can develop yourself
+
+The "real world" is a harsh place, where, as I have said, no one will care whether you're growing as a person. Once you're working full time, on your start-up or otherwise, it becomes incredibly difficult to find the time to invest in extra-curricular things which you really want to do. At university, it's easy &mdash; you might decide to learn a new language, or even start a start-up on the side, and still have time for your social life and to take your studies seriously. Once you leave that shelter, however, you'll have to surmount tall obstacles to find the time to do what you want.
+
+h3. Meet interesting people
+
+Last but not least, to me, the most fascinating aspect of university was the people I met there. I've yet to find myself again surrounded by so many smart and interesting people, from college professors to students. Moreover, you get to meet all those people in a low-stress, low-competition environment [3] where you can really become friends with them. Making friends in the work-place is much more delicate and takes a lot longer [4].
+
+Even if you're looking at it from a start-up point of view, you will meet many more potential start-up cofounders at university than by going straight to work &mdash; whether for your own business or for someone else's.
+
+But the important thing there is really that you'll make friends that you otherwise wouldn't have made, at a stage of their life where they're growing and learning many new things, and build personal connections that are priceless not from a business point of view, but from a personal point of view. Life is about more than business.
+
+h3. Conclusion
+
+There are many good reasons to go to university. You'll notice that I didn't list job training among them, because, unless your vocation requires a degree, that is not the best reason to go to university. If you can go to university without being financially irresponsible, then it is personally irresponsible not to &mdash; especially if your reason for avoiding college is that you have a start-up idea to work on.
+
+I hope this helps. There are no doubt many other reasons to go to university. Let me know your thoughts below.
+
+<div class="footnotes">
+
+fn1. These are largely based on my personal experience of university, in Oxford University in England. Different universities can vary greatly, though in my opinion you can get a fairly good idea of what life will be at a specific college before you apply, through open days and other ways.
+
+fn2. Please give it a couple of years before deciding that&#8230; the first year is usually significantly less interesting than the rest of a degree course, because the university first has to ensure that everyone has the baseline level of competence in the subject.
+
+fn3. It's worth noting that not all universities, and not all parts of the world, are equal. Asian universities, as my friends who studied there tell me, have a much stronger emphasis on study and don't care so much about developing their students socially. That's a mistake, in my opinion.
+
+fn4. It can happen, and does happen, but in many cases, a work relationship will get in the way of a personal relationship and, at the very least, slow things down so that what might have taken a couple of months of hanging around each other will take a year of careful exploration. And then there's always the potential for becoming your friend's boss, which throws spokes in the wheels.
+
+Thanks to "Kelvin Koh":http://www.kelvinkoh.com/ for reviewing a draft of this article.
+
+</div>

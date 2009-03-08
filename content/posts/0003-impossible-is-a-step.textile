@@ -1,0 +1,30 @@
+---
+title:      Impossible is a step
+created_at: 2009-02-27 17:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Thoughts
+subtitle:   An unacceptable way forward
+excerpt:    "Sometimes, you have to take a trip through the impossible to find your way from one possible to a better one. This is otherwise known in popular culture as the milder \"things are going to get worse before they get better\". Conceptually, however, this idea can be pushed to its extreme. Not only are things going to get worse, they're going to get unthinkably, impossibly worse, in a way that is completely unacceptable."
+layout:     post
+filter:
+  - textile
+---
+
+Sometimes, you have to take a trip through the impossible to find your way from one possible to a better one.
+
+<div style="float:right; padding: 10px; padding-top: 0px; margin-top: 0px"><img src="/images/posts/0003-01.png" width="300"/></div>
+
+This is otherwise known in popular culture as the milder "things are going to get worse before they get better". Conceptually, however, this idea can be pushed to its extreme. Not only are things going to get worse, they're going to get unthinkably, impossibly worse, in a way that is completely unacceptable.
+
+This is universally useful. When applied to design, this translates into considering and trying out unacceptable solutions that fly in the face of your design principles, as possible stepping stones to an acceptable result. When applied to implementation, it means being willing to try something with no apparent chance of success to probe the problem and discover something more.
+
+When applied to thought, it means being willing to consider <em>all</em> variations of ideas, no matter how bizarre, unpleasant, or repugnant, to respect that they may lead to greater ideas than those we came from. When applied to discussion, it means being willing to embrace strong disagreement and confrontation as a building block of consensus.
+
+This is a dangerous idea, and it demands a caveat. Impossible is only a useful step if you can escape from it back into the acceptable. Some steps into the dark are irreversibly harmful. The means does not justify the end.
+
+<div class="more-thoughts">
+	<div class="more-thoughts-info"><span class="more-thoughts-author">Ioan Tenner</span> adds:</div>
+Impossible is also a wild bold path of which you can ask: what makes this impossible? Often, by taking a different view (what I call n &plusmn; 1), you find that some of the things that make it impossible can be altered. And it becomes possible.<br />
+
+	Sometimes, you do not have to come back to your little reality because you just opened a door to a larger one.
+</div>
