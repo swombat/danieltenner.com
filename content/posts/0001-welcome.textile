@@ -1,0 +1,30 @@
+---
+title:      Welcome to danieltenner.com
+created_at: 2009-02-24 17:00:00.000000 -00:00
+author:     Daniel Tenner
+subtitle:   Why danieltenner.com?
+excerpt:    "This is certainly not my first blog, and not my first page on the internet (I think the first was in 1996). As I learn and change, my pages change too. In life, you get chances to reinvent yourself - when you move to a different country, a different school, a different job, a different project. Of course, bits and pieces of your old self still cling on, both outside of you and within. Such is the case here too."
+layout:     post
+filter:
+  - textile
+---
+
+<div style="float:right; padding: 10px; padding-top: 0px; margin-top: 0px"><img src="/images/posts/0001-01.png"/><br/><br/></div>
+
+This is certainly not my first blog, and not my first page on the internet (I think the first was in 1996). As I learn and change, my pages change too.
+
+In life, you get chances to reinvent yourself &#8211; when you move to a different country, a different school, a different job, a different project. Of course, bits and pieces of your old self still cling on, both outside of you and within. Such is the case here too.
+
+I call this blog danieltenner.com for reasons of continuity with previous work and because it represents my personal opinions.
+
+I have moved far forwards in the last 18 months. This time I will try a different tone and approach than the one used on inter-sections. I will try to be more brief, less detailed, and clearer. It&#8217;s hard to be brief, so forgive me if I fail sometimes.
+
+I will try to be positive at all times. The great echo chamber of the internet doesn&#8217;t need more negativity. This is very hard. The internet loves negativity, and I like to please my audience.
+
+I will try new forms of writing &mdash; in some of my posts, I will try to open a dialogue between generations (more specifically, between me and my father). Time will tell whether I succeed in this endeavour, or fall prey to the accepted wisdom, that there is an unbridgeable chasm between one generation and the next.
+
+I will try to share some of my insights about how to succeed in building online businesses like "woobius":http://www.woobius.com.
+
+I will try to share interesting ideas, thoughts, insights, and other pieces of wisdom gathered along the way, in a way that is useful.
+
+I cannot promise I will succeed at any of these things, but I will try.

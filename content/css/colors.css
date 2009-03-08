@@ -1,0 +1,61 @@
+
+
+/* Elements */
+body {
+	background-color: #382322
+}
+
+a {
+	color: black;
+}
+
+#footer-left-column * {
+	color: white;
+}
+
+#footer-left-column a {
+	color: #bbbbbb;
+}
+
+#footer-right-column * {
+	color: white;
+}
+
+/* ids */
+#body {
+	background: white url('/images/site/middle.png') repeat-y;
+	color: #373F4B;
+}
+
+#footer {
+	background: #302626 url('/images/site/bottom_middle.png') repeat-y;
+	color: white;
+}
+
+#footer_bottom {
+	background: #302626 url('/images/site/bottom_bottom.png') no-repeat;
+}
+
+#footer_top {
+	background: #382322 url('/images/site/bottom_top.png') no-repeat;
+}
+
+#header {
+	background: #513132 url('/images/site/top.png') no-repeat;
+}
+
+/* classes */
+.more-thoughts {
+	background-color: #f3f3f3;
+	border: 1px dashed black;
+}
+
+.post .post-subtitle {
+	color: #525230;
+	background-color: #f5f5f5;
+}
+
+.post-info {
+	border: 1px dashed #a5a5a5;
+	background-color: #eeeeee;
+}

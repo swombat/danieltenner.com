@@ -14,8 +14,8 @@ filter: erb
  
   <title><%= h(@page.title) %></title>
   <subtitle><%= h(@page.subtitle) %></subtitle>
-  <link href="http://www.woobius.com/scribbles/feed/atom.xml" rel="self" />
-  <link href="http://www.woobius.com/scribbles/" />
+  <link href="http://danieltenner.com/feed/atom.xml" rel="self" />
+  <link href="http://danieltenner.com/" />
   <updated><%= Time.now.xmlschema %></updated>
   <author>
     <name><%= h(@page.author) %></name>
@@ -23,16 +23,16 @@ filter: erb
   </author>
   <id>http://<%= @page.site %>/</id>
   <% @pages.find(:limit => 10,
-                 :in_directory => '/scribbles/posts',
+                 :in_directory => '/posts',
                  :recursive => true,
                  :sort_by => 'mtime',
                  :reverse => true).each do |article|
-    next if article == @page
+    next if article == @page || article.unindexed
   %>
   <entry>
     <title><%=h article.title.gsub('&nbsp;', ' ') %></title>
-    <link href="http://www.woobius.com<%= article.url %>" />
-    <id>http://www.woobius.com<%= article.url %>,<%= article.created_at.strftime('%Y-%m-%d') %>:<%= article.created_at.to_i %></id>
+    <link href="http://danieltenner.com<%= article.url %>" />
+    <id>http://danieltenner.com<%= article.url %>,<%= article.created_at.strftime('%Y-%m-%d') %>:<%= article.created_at.to_i %></id>
     <updated><%= article.created_at.xmlschema %></updated>
     <content type="html"><%= h(render(article)) %></content>
   </entry>

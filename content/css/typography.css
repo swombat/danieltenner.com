@@ -1,0 +1,77 @@
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+body {
+	font-family: Baskerville, Times, Times New Roman, serif;
+	font-size: 1em;
+	line-height: 120%;
+	color: #333333;
+}
+
+h3 {
+	font-weight: bold;
+	color: #555555;
+}
+
+#dsq-comments  {
+	font-size: 1.3em;
+	line-height: 1.5em;
+}
+
+.footnotes {
+	font-size: 0.7em;
+}
+
+.full-post {
+	font-size: 1.3em
+}
+
+.more-thoughts-info {
+	font-size: 0.8em;
+}
+
+.more-thoughts-author {
+	font-weight: bold;
+}
+
+.post-body {
+	line-height: 1.5em;
+}
+
+.post-title {
+	font-family: Cambria, Georgia, Times, Times New Roman, serif;
+	letter-spacing: -2px;
+	line-height: 0.5em;
+}
+
+.post-subtitle {
+	font-size: 1.1em;
+	font-style: italic;
+	letter-spacing: 1px;
+}
+
+.post-info {
+	font-size: 0.7em;
+}
+
+.full-post a {
+	border-bottom: 1px dashed black;
+}
+
+.post-title a {
+	border-bottom: none;
+}
+
+.post-share a {
+	border-bottom: none;
+}
+
+#disqus_thread a {
+	border-bottom: none;
+}

@@ -5,7 +5,7 @@ layout:     index
 filter:     haml
 dirty:      true
 ---
-- articles = @pages.find(:all, :in_directory => 'scribbles/posts', :recursive => true, :sort_by => "created_at", :reverse => true){|p| p.path !~ /index\.txt$/}
+- articles = @pages.find(:all, :in_directory => 'posts', :recursive => true, :sort_by => "created_at", :reverse => true){|p| p.path !~ /index\.txt$/}
 - articles.delete(@page)
 - articles.group_by{|a| a.created_at.strftime('%Y')}.each do |year, articles|
   .post-list.section

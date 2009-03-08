@@ -5,105 +5,64 @@ filter:    erb
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 	"DTD/xhtml1-strict.dtd">
 <% 
-	@all_pages = @pages.find(:all, :in_directory => "scribbles/posts", :recursive => true, :sort_by => "created_at", :reverse => true){|p| p.path !~ /\/index\.txt$/} 
+	@all_pages = @pages.find(:all, :in_directory => "posts", :recursive => true, :sort_by => "created_at", :reverse => true){|p| p.path !~ /\/index\.txt$/ && !p.unindexed } 
 	@first_ten = @all_pages[0..9]
 	@first = @all_pages.first
 -%>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<title>Woobius Scribbles &mdash; <%= @page.title %></title>
+	<title>danieltenner.com &mdash; <%= @page.title %></title>
 	<meta name="author" content="<%= @page.author %>" />
 
 	<!-- jQuery JavaScript Framework -->
-	<script type="text/javascript" src="/scribbles/js/jquery-latest.pack.js"></script>
+	<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
 
-	<!-- Facebox jQuery Plugin -->
-	<script src="/scribbles/js/jquery.dimensions.min.js" type="text/javascript"></script>
-	<script src="/scribbles/js/jquery.center.js" type="text/javascript"></script>
-   	<script src="/scribbles/js/jquery.facebox.js" type="text/javascript"></script>
-   	<link href="/scribbles/css/facebox.css" media="screen" rel="stylesheet" type="text/css" />
-
-	<link rel="stylesheet" href="/scribbles/css/blueprint/blueprint/screen.css" type="text/css" media="screen, projection">
-	<link rel="stylesheet" href="/scribbles/css/blueprint/blueprint/print.css" type="text/css" media="print">	
-	<!--[if IE]><link rel="stylesheet" href="/scribbles/css/blueprint/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	<link rel="stylesheet" href="/css/blueprint/blueprint/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="/css/blueprint/blueprint/print.css" type="text/css" media="print">	
+	<!--[if IE]><link rel="stylesheet" href="/css/blueprint/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
 
    <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/scribbles/css/site.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="/css/colors.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="/css/typography.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="/css/positioning.css" type="text/css" media="screen, projection" />
 	
 	<!-- Feed Discovery -->
-   <link rel="alternate" type="application/atom+xml" title="RSS feed" href="http://feeds.feedburner.com/woobius" />
-
-   <script type="text/javascript" charset="utf-8">
-     $(document).ready(function() {
-       $('a.fig').facebox();
-       $('a.fig').hover(function() {
-         $('#' + $(this).attr('title') + ' a').addClass('hover');
-       }, function() {
-         $('#' + $(this).attr('title') + ' a').removeClass('hover');
-       });
-     });
-   </script>
+   <link rel="alternate" type="application/atom+xml" title="RSS feed" href="http://feeds2.feedburner.com/danieltenner" />
 
 </head>
 
 <body>
-	<div class="container">
-		<!-- header -->
-		<div class="span-1">
-			<img src="/scribbles/images/logo.gif">
+	<div align="center">
+		<div id="header" onclick="document.location = '/'">
 		</div>
-		
-		<div class="span-23 header last">
-			<a href="/">w<span class="woobius-brown">oo</span>bius<small>.com</small></a><a href="/scribbles/"> / <img src="/scribbles/images/scribbles.gif" style="position: relative; top: 5px;" alt="scribbles" /></a>
-		</div>
-	
-		<div style="clear:both" />
-	
-		<!-- main content body -->
-		<div class="span-1">&nbsp;</div>
-
-		<div class="span-16">
-			<%= @content %>
-		</div>
-		
-		<!-- right hand side column -->
-		<div class="span-6 last right-column">
-
-			<h3>About</h3>
-			<p>The <a href="https://www.woobius.com">Woobius</a> Scribbles are the results of the conversations and ideas of Bob Leung (architect) and Daniel Tenner (technologist). More about our goals on this blog can be found <a href="/scribbles/posts/0001-welcome.html">here</a>.</p>
-			<div align="center" class="rss-box">
-				<a href="http://feeds.feedburner.com/woobius" rel="alternate" type="application/rss+xml">Follow this blog</a>&nbsp;<a href="http://feeds.feedburner.com/woobius" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0;margin:0;padding:0"></a><br/><br/>
-				<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2686302', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>or subscribe by email:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=2686302" name="url"/><input type="hidden" value="Woobius Scribbles" name="title"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /><p>Delivered by <a href="http://www.feedburner.com" target="_blank">FeedBurner</a></p></form>
+		<div id="body">
+			<div align="left">
+				<%= @content %>
 			</div>
-			<h3>All the scribbles</h3>
-			<ul>
-				<% @all_pages.each do |page| -%>
-				<li class="post-title-link"><a href="<%= page.url %>"><%= page.title %></a></li>
-				<% end -%>
-			</ul>
-			
-			<h3>
-				We read
-			</h3>
-			<%= BlogRoll.to_html %>
-	
 		</div>
-		
-		<div style="clear:both">&nbsp;</div>
-
-		<!-- footer left -->
-		<div class="span-6 footer-left small" align="left">
-			<p>Created with <a href="http://webby.rubyforge.org">Webby</a></p>
+		<div id="footer_top">
 		</div>
-		
-		<div class="span-12">&nbsp;</div>
-
-		<!-- footer right -->
-		<div class="span-6 footer-right small last">
-			Design &amp; content Copyright <a href="http://woobius.com">Woobius</a> Ltd 2008
+		<div id="footer">
+			<div align="left">
+				<div id="footer-left-column">
+					<h3>Recent posts</h3>
+						<% @all_pages.each do |page| -%>
+						<div class="item"><a href="<%= page.url%>"><%= page.title %></a></div>
+						<% end -%>
+				</div>
+				<div id="footer-right-column">
+					<div align="center" width="100%">
+						<h3>Follow this blog</h3>
+						<a href="http://feeds2.feedburner.com/danieltenner"><img src="/images/rss.png" border="0" width="128" height="128"></a>
+					</div>
+				</div>
+				<div class="clear">
+				</div>
+			</div>
 		</div>
-	
+		<div id="footer_bottom">
+		</div>
 	</div>
 
 <!-- Disqus -->
@@ -117,19 +76,12 @@ filter:    erb
 				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
 			}
 		}
-		document.write('<script type="text/javascript" src="http://disqus.com/forums/woobius-scribbles/get_num_replies.js' + query + '"></' + 'script>');
+		document.write('<script type="text/javascript" src="http://disqus.com/forums/danieltennercom/get_num_replies.js' + query + '"></' + 'script>');
 	})();
 //]]>
 </script>
 
-<!-- Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-6139254-1");
-pageTracker._trackPageview();
-</script>
+<script src="http://static.getclicky.com/76009.js" type="text/javascript"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="http://static.getclicky.com/76009-db10.gif" /></p></noscript>
 
 </body>
