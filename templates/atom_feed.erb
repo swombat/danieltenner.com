@@ -27,7 +27,7 @@ filter:    erb
                  :recursive => true,
                  :sort_by => 'mtime',
                  :reverse => true).each do |article|
-    next if article == @page
+    next if article == @page || @page.unindexed
   %>
   <entry>
     <title><%%= h(article.title) %></title>
