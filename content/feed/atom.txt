@@ -1,9 +1,9 @@
 ---
-title: Woobius Scribbles
-subtitle: Technology for Architecture
-site: woobius.com/scribbles
-author: Bob Leung, Daniel Tenner
-email: blog@woobius.com
+title: danieltenner.com
+subtitle: -
+site: danieltenner.com
+author: Daniel Tenner
+email: daniel.blogfeed@tenner.org
 extension: xml
 layout: nil
 dirty: true
