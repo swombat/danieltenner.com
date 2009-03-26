@@ -19,6 +19,11 @@ h3 {
 	color: #555555;
 }
 
+h4 {
+	font-weight: bold;
+	color: #666666;
+}
+
 #dsq-comments  {
 	font-size: 1.3em;
 	line-height: 1.5em;

@@ -3,6 +3,7 @@ title:      Starting up with a friend
 created_at: 2009-03-11 11:00:00.000000 -00:00
 author:     Daniel Tenner
 category:   Start-ups
+hnid:       511539
 subtitle:   What could possibly go wrong?
 excerpt:    "It seems like a fool-proof plan: start up with a close friend. It's not a bad idea, but there are a few caveats that you should be aware of before you proceed.<br/><br/>When I started my first company with one of my closest friends, I expected things would go very well between us. After all, he was a very close friend. We understood each other in ways that would take years to build up (and did take 10 years to build up). We <i>knew</i> each other, and we <i>knew</i> we could rely on each other. We were prepared to have many surprises along the way &mdash; starting a business is always going to be a scary adventure."
 layout:     post
@@ -85,6 +86,11 @@ This article wouldn't be complete without a list of questions that you might go 
 * What are the conditions under which we'd call the business a failure and pull the plug?
 * What is plan B for each of us if we do pull the plug? Are we both prepared for that plan B?
 * What do we expect of each other, both in terms of responsibilities and in terms of attitude and effort?
+* What is and is not an expense? What is the maximum amount someone can spend on an expense without checking with the other? (from "Sebastian Marshall":http://danieltenner.com/posts/0005-starting-up-with-a-friend.html#comment-7097096)
+* When and how will profits be distributed? How much will be reinvested? What will the reserves be? (from "Sebastian Marshall":http://danieltenner.com/posts/0005-starting-up-with-a-friend.html#comment-7097096)
+* What happens if one partner needs cash and the other wants to reinvest it into growth/expansion? (from "Sebastian Marshall":http://danieltenner.com/posts/0005-starting-up-with-a-friend.html#comment-7097096)
+* How will you handle it when (not if) the hours each partner is working are unbalanced? (from "Sebastian Marshall":http://danieltenner.com/posts/0005-starting-up-with-a-friend.html#comment-7097096)
+
 
 This is not a final list by any means, but it should at least provide some starting points to make the implicit explicit. If you have other suggestions, please do add them in the comments below.
 
