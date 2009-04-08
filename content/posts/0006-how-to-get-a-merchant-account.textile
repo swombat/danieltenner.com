@@ -1,0 +1,105 @@
+---
+title:      How to get a merchant account
+created_at: 2009-03-23 16:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Start-ups
+hnid:       530055
+subtitle:   A series of hoops
+excerpt:    "Getting a merchant account is a necessary step before you can take credit and debit card payments. That's essential for the vast majority of Software-as-a-Service (SaaS) start-ups, and for many other kinds of business too. Unless you'll be making all your money from advertising, you'll need to be able to take payments.<br/><br/>Considering how many businesses there are out there, one would think this process might be smooth and painless by now. Just apply for a merchant account, sign the dotted line, and receive your merchant id in the mail a couple of weeks later. Unfortunately, this is not the case. Obtaining a merchant account is a potentially long and complex process, particularly if you're a new, small business that's going through this process for the first time."
+layout:     post
+filter:
+  - textile
+---
+
+!>/images/posts/0006-01.png!
+
+Getting a merchant account is a necessary step before you can take credit and debit card payments. That's essential for the vast majority of Software-as-a-Service (SaaS) start-ups, and for many other kinds of business too. Unless you'll be making all your money from advertising, you'll need to be able to take payments, and if you want to be able to do so efficiently, you need a merchant account.
+
+Considering how many businesses there are out there, one would think this process might be smooth and painless by now. Just apply for a merchant account, sign on the dotted line, and receive your merchant id in the mail a couple of weeks later. Unfortunately, this is not the case. Obtaining a merchant account can be a long and complex process, particularly if you're a new, small business that's going through this process for the first time.
+
+I don't claim to be an expert on this process. However, I've gone through it a few times, and I know people who are very familiar with it, so I put together this guide to obtaining a merchant account, from the cash-strapped start-up's point of view.
+
+h3. Why do you need a merchant account?
+
+If you're building a typical SaaS business, you'll need a merchant account in order to process credit and debit card payments. You could use Paypal, but some customers may feel you're less credible because you don't charge like everyone else. You could use one of the gateways that don't require a merchant account, but typically they take fees of up to 10% of the transaction amount.
+
+As of the publication of this post, the standard, most cost-effective way to take payments for SaaS products is still merchant accounts, managed by a regular bank, and going through a payment gateway.
+
+h3. 1. When should you start this process?
+
+Getting a merchant account can take anything from a few days to more than six months (if you make many mistakes). If you're going through it for the first time, you may find yourself stuck at various points in the process. These sticking points can result in massive delays. You don't want to be sitting there with a business that has users who want to pay you, but can't because you don't have a merchant account. Unforeseen delays in this process can cost you dearly, and if you're going through this for the first time, there will probably be unforeseen delays.
+
+On the other hand, there is little to no cost in obtaining a merchant account too early. Until your first transaction, the account just waits, unused, costing you nothing.
+
+Therefore, you should start this process *as soon as possible* &mdash; today, if you can. Don't underestimate how long this might take. Banks are often ridiculously slow in processing merchant account applications, when compared to the pace of the internet.
+
+A small addendum to this advice: you need to have some sort of website (even if it's just a placeholder) up before you start the application process. The bank will look at it. But this needs not be the same website that you actually launch with.
+
+h3. 2. Apply to more than one bank
+
+When you apply for a merchant account as a fresh new start-up, you're in a position of overwhelming inferiority. The bank can dictate whatever terms they want to you, ask you for money up-front, impose ridiculous charges, etc. There's a simple way around this: apply to several banks.
+
+It takes more time and effort, but it gives you bargaining power. Banks don't talk to each other much, so you can play them against each other. If all the banks are demanding an up-front payment, you can tell each one that another bank that you've applied to didn't demand it. Banks do want your business, especially if you've conveyed the right impression, and so they'll be willing to negotiate terms if it looks like you're going to go somewhere else.
+
+If you end up with more than one merchant account, so much the better. Sometimes banks can act irrationally and freeze your merchant account (particularly early on when you're still relatively tiny), at the first hint that maybe there could be fraud going on (whether there really is or not). Having another merchant account set up gives you the ability to minimise the damage by switching over to your backup account. And, as I said earlier, unused merchant accounts don't cost much.
+
+h3. 3. Exaggerate your volumes
+
+When you're preparing your internal business plan, you should be conservative with your sales forecasts. However, when you're talking to the bank, you should convince them that you will be a successful business that will bring them significant revenues. This shouldn't be too hard &mdash; after all, you are optimistic about your start-up's prospects, aren't you?
+
+Don't lie. You need to be able to justify those numbers. However, if your internal, conservative goal is to get 500 sales a month by the end of the year, say you're looking at internal projections of 1500 to 2000 sales a month. Be realistic, but optimistic. Ideally, you want to convey a turnover that will soon rise above a million dollars, so that your account manager feels that it's worthwhile dealing with you and giving you a good deal. Don't tell them that you're _hoping_ for those numbers. Tell them that those are the numbers you _expect_, based on current usage patterns. Now is the time for unwarranted confidence and optimism, not for cautious realism.
+
+Your projected volume will also influence how big a cut the bank asks for. If your volumes are very small, they will want a comparatively large percentage of your transactions. If you're planning to process a lot of transactions, on the other hand, they may be happy with a smaller cut.
+
+Once your rates are negotiated, the bank is extremely unlikely to increase (or decrease) them if you fail to reach the volumes you predicted. So make sure you get good rates from the start by being optimistic.
+
+h3. 4. Know your fraud-stuff
+
+Banks still exist in a universe where "online businesses" are a scary new idea. They often don't quite understand it, and they are scared to death of fraud. Even though you are honest, some of your customers may not be.
+
+Your account manager will need to convince her fraud department that you're not a great fraud risk. In order to do this, you need to convince her that you know all about online fraud, and that your business has covered all the bases to prevent fraudulent activity.
+
+You should make sure you know all about "chargebacks":http://www.wisegeek.com/what-are-chargebacks.htm, "3D-secure":http://en.wikipedia.org/wiki/3-D_Secure, and "AVS/CV2":http://kb.actinic.com/activekb/questions/1165/What+is+AVS,+CV2+(or+CVV2),+Chip+and+Pin,+3D+Secure,+Verified+by+Visa,+and+Mastercard+SecureCode%3F. You should also think ahead and figure out how someone might attempt to defraud you. This is harder because there is not all that much advice about how fraudulent individuals screw over businesses. Most of the readily available advice focuses on helping consumers avoid fraudulent businesses, but many businesses go broke dealing with fraudulent customers. It's important to think ahead to what you're going to do when (not if) someone uses a stolen card number on your service.
+
+Do you pay commissions to affiliates? You're automatically a higher fraud risk. Do you sell intangibles (like a web service)? People might call in chargebacks to get refunds. Sell to businesses? You're a lower fraud risk, so make sure you highlight that. Adult industry? Multi-level marketing? Other "shady" businesses? Chances are the bank will not even touch you.
+
+It is important for your own business that you think about fraud ahead of time. And it is extremely important for your merchant account process that you _convey_ that you've thought about fraud and have it covered. Make the bank feel safe, or they'll delay your application forever.
+
+h3. 5. Be serious
+
+The last thing any bank wants, understandably, is someone who's going to blunder their way through figuring out how to charge credit cards, making costly mistakes along the way, getting defrauded left and right, and finally going broke and winding down the business because they couldn't handle the complexity of it all. As part of your discussions and emails with your account manager, you must convince him that you're serious, you know what you're doing and, ideally, that you have help from someone who's done it before, successfully.
+
+If you don't have access to such a helper, find one. Again, this shouldn't be too hard &mdash; presumably you know other people who have started businesses before and they had to apply for a merchant account too. Once you've found that person, make sure your account manager is aware that you're not helpless.
+
+Be serious about security too. There are a lot of security regulations tied to internet transaction processing, and you want to be aware of them and convey that you are aware of them. For example, it's probably a good thing to name-drop "PCI-DSS":http://en.wikipedia.org/wiki/PCI_DSS in the conversation, and explain how you're compliant with it.
+
+Finally, do convey that you're a serious business and you're going to succeed. This is not the time to declare that you're a fresh new business and you don't have formal titles within the company, and don't care much for rigid formality. This is the time to introduce yourself as the managing director and sound exactly like your stodgier competitors might.
+
+h3. 6. Read the fine print and negotiate the charges
+
+Banks will often present you with complex charges that are hard to compare with the offers from other banks. Unscrupulous ones may even use tricks like high termination fees that hit you when you least expect it. Others may ask for high up-front fees, suggest they hold your money for 3 months, etc.
+
+All those points are negotiable.
+
+The extent to which you can negotiate is largely driven by how much they value your business (see point 3) and by how many other offers you can choose from (see point 2). None of the merchant accounts I've been involved in have ended up having to pay an up-front fee, although the bank always asked for one.
+
+Rates are an obvious one to compare, but don't forget to also negotiate how long the bank will hold your money before passing it to you (many banks hold your payments in a separate account and pay your corporate account at the end of the month). Anything more than 1 month should be considered unacceptable. You should consider how important that is for your cash flow.
+
+h3. In conclusion...
+
+Getting your first merchant account can be a real nightmare, but it doesn't need to be so. Following these tips will maximise your chance of looking back at this process and thinking "Heh, it wasn't so hard after all". Doing the opposite of these tips can practically guarantee you'll never get a merchant account. Here they are again:
+
+* *Start the process early* because it might take much longer than you think it should
+* *Apply to several banks* to give yourself leverage in negotiations
+* *Exaggerate your volumes (realistically)* to obtain good terms and good attention
+* *Know all about fraud* to make the bank feel safe about doing business with you
+* *Be serious* to ensure the bank feels you're a trustworthy business
+* *Read the fine print and negotiate the terms*, as you may be able to get much better terms than initially offered
+
+I hope these tips help others avoid some unnecessary headaches. Do you have any other advice? Please leave it below.
+
+<div class="footnotes">
+	
+	Thanks to "appletizer":http://neurosci.wikidot.com and "lifo":http://m.onkey.org/ for reviewing a draft of this article.
+	
+</div>

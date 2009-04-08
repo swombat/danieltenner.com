@@ -59,3 +59,7 @@ a {
 	border: 1px dashed #a5a5a5;
 	background-color: #eeeeee;
 }
+
+.translations a {
+	color: #888888;
+}

@@ -11,6 +11,10 @@ filter:
   - textile
 ---
 
+<div class="translations">
+	[ <a href="http://blog.pershyn.name/2009/04/starting-up-with-friend-by-daniel.html">Russian translation</a> ]
+</div>
+
 It seems like a fool-proof plan: start up with a close friend. You'll get along (obviously), and you'll get to share the exciting, fantastic, scary experience of starting up with someone you care about. It's not a bad idea, but there are a few caveats that you should be aware of before you proceed[1].
 
 When I started my first company with one of my closest friends, I expected things would go very well between us. We understood each other in ways that would take years to build up (and did take 10 years). We _knew_ each other, and we _knew_ we could rely on each other. We were prepared to have many surprises along the way &mdash; starting a business is always going to be a scary adventure.

@@ -5,6 +5,11 @@ body {
 	padding-bottom: 20px;
 }
 
+h4 {
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
 /* ids */
 #backtype-box {
 	margin-top: 20px;

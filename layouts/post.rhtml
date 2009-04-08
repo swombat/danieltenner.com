@@ -34,10 +34,10 @@ dirty:     true
 					<script src="/js/social/reddit.js" type="text/javascript"></script>
 				</td>
 				<td valign="top">
-					<a href="http://del.icio.us/post?url=<%= CGI.escape(@page.url) %>&title=<%= CGI.escape(@page.title) %>&jump=no"><img src="/images/social/delicious_64x64.png"></a>
+					<a href="http://del.icio.us/post?url=<%= CGI.escape("http://danieltenner.com"+@page.url) %>&title=<%= CGI.escape(@page.title) %>&jump=no"><img src="/images/social/delicious_64x64.png"></a>
 				</td>
 				<td valign="top">
-					<a href="http://www.stumbleupon.com/submit?url=<%= CGI.escape(@page.url) %>&title=<%= CGI.escape(@page.title) %>"><img border=0 src="/images/social/Stumbleupon_64x64.png" alt="Stumble It!"></a>
+					<a href="http://www.stumbleupon.com/submit?url=<%= CGI.escape("http://danieltenner.com"+@page.url) %>&title=<%= CGI.escape(@page.title) %>"><img border=0 src="/images/social/Stumbleupon_64x64.png" alt="Stumble It!"></a>
 				</td>
 				<td valign="top">
 					<a href="javascript:var%20b=document.body;var%20GR________bookmarklet_domain='http://www.google.com';if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.src='http://www.google.com/reader/ui/link-bookmarklet.js');void(b.appendChild(z));}else{}"><img src="/images/social/greader_64x64.png"></a>

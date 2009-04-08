@@ -77,6 +77,15 @@ h4 {
 	border-bottom: none;
 }
 
+.translations {
+	font-size: 0.7em;
+	text-align: center;
+}
+
+.translations a {
+	border: none;
+}
+
 #disqus_thread a {
 	border-bottom: none;
 }

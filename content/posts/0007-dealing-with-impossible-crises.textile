@@ -1,0 +1,132 @@
+---
+title:      Dealing with impossible crises
+created_at: 2009-04-08 12:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Start-ups
+subtitle:   Relentless resourcefulness at work
+excerpt:    "In large corporations, almost everything new is <i>impossible</i>. Try to do anything new, and typically you are met with dozens of reasons why it can't be done. As a consultant (which I was throughout my time in the corporate world), however, you've been hired to get something specific done, so you don't get to echo the \"it can't be done\" line back to your client. Your job is, effectively, to do the impossible."
+layout:     post
+hnid:       552581
+filter:
+  - textile
+---
+
+In large corporations, almost everything new is _impossible_. Try to do anything new, and typically you are met with dozens of reasons why it can't be done. As a consultant (which I was throughout my time in the corporate world), however, you've been hired to get something specific done, so you don't get to echo the "it can't be done" line back to your client. Your job is, effectively, to do the impossible.
+
+!>/images/posts/0007-01.png!
+
+What happens after you do this for a few years? Well, you gain a healthy disrespect for anyone who tells you that something is impossible (because it very rarely is), and a productive attitude to dealing with such situations. Some things really are impossible (so far), like teleporting to the other side of the world, or bringing someone back to life, or traveling back in time. But most situations deemed "not possible" are nothing of the sort. The lessons I've learned about the nature of impossibilities from my years as a corporate consultant are also useful in start-up life.
+
+Now when I run against so-called impossible tasks, the mantra I usually repeat to myself is: "There are very few things that are truly impossible. This is not one of them."
+
+h3. A practical example of getting the impossible done
+
+Last Christmas, my girlfriend and I were going to spend Christmas in Geneva, with my parents. We bought our tickets in September, booked a hotel to stay in, and, on December 24th, turned up at London City airport to climb on the plane. What we didn't know (and what Air France failed to inform us of) was that Switzerland had just entered the Schengen area three weeks earlier (why they timed that for three weeks before Christmas, I don't know). This made no difference to me, but my girlfriend, being Taiwanese, now needed a visa to go to Geneva.
+
+Of course, the airline wouldn't let us on the plane. The Swiss embassy in London was closed for the holidays, so there was no way to get an emergency visa. This was a typical "it can't be done" situation. French companies are notoriously procedural and uncooperative. Air France proved to be just that. They wouldn't help us, beyond giving us the phone number of the Geneva airport border police. The Swiss border police, predictably, had no intention of breaking the Rules to let in a couple of people who didn't arrange their affairs in advance.
+
+The situation looked lost, Christmas was ruined, my girlfriend was close to tears, suggesting that I go by myself and leave her alone in London for Christmas.
+
+In the end, we made it through. My father, from Geneva, inexplicably convinced the border police, on the phone, and without any prior contacts, to give us a temporary visa upon arrival (impossible!), and I convinced the uncooperative Air France to bend ever so slightly (unthinkable!) and actually bother to call up the Swiss border police to confirm that we could board (at first, they insisted on requiring the border police to send them a fax confirmation). We still missed our plane (largely due to the inflexibility of Air France, who I shall not be flying with again), and had to pay a surcharge to get the next plane[1].
+
+But we made it to Geneva, and that was the most important thing. Christmas was saved &mdash; in fact, we had a great Christmas holiday.
+
+h3. Principles for doing the impossible
+
+Overcoming these brick walls in the airport required the same approach as it did in large corporations. I later discussed it with my father, and have broken it down below into a handful of essential practices. Some may be obvious, some may be less so. All can be useful when trying to get your way and facing the faceless brick wall of "it can't be done[2]", though they're not applicable to all situations.
+
+h4. 1. Calm down, smile and stay polite
+
+You cannot win this kind of battle through anger. The very first thing to do is to observe that you are angry, and calm yourself down. Acknowledge your anger, and put it aside for later. There'll be plenty of time for cursing the system that put these problems in your way later, after you've removed these obstacles. The surest way to guarantee that you won't get your way is to get angry. Angry people are always wrong, and they're rarely worth helping or cooperating with.
+
+When faced with sudden, unexpected obstacles, it's easy to let your emotions flare up, but in most cases, the other side doesn't _have_ to help you, and a heated exchange may even ensure that they actively _hinder_ you.
+
+Next, you need to make a positive effort to stay polite and pleasant. This is more than just "acting normal". You need to be extra nice with all the people involved in the problem you're facing, because any of them might be the key to helping you move past that problem.
+
+As a start-up, you have very little power to bully people who throw brick walls in your way, so when you hit such a problem, remain apparently cheerful and polite even if your business is going up in flames in the back of your mind. Rule 1 is: smile and stay polite and positive. You'll win more with that attitude than any other, particularly when there's plenty to be emotional about.
+
+h4. 2. Become a human being
+
+It's easy to say _no_ to a statistic, or a number, a traveller, a buyer. It's easy to ignore a ticket in a queue. It's much harder to ignore a real human being with a real, personal story, someone you've met, who's looked you in the eye, and spoke to you one-to-one.
+
+Chances are the system that is blocking you is not treating you like a person, but like an item in a queue of things to be dealt with. To get people within that system to help you, you need to snap them out of that world-view, into considering your case as a real, personal, human situation.
+
+The easiest way to achieve that is to provide them with personal details. No, I don't mean your name and address! Provide some elements to build a _story_ of what is happening to you. You're not just two faceless entities who want to get on a plane without a visa, you're a couple traveling home to spend Christmas with your parents. You're not just yet another customer trying to solve some production issue, you're an inspiring start-up preparing to go-live with your first and best customers.
+
+Add as many personal details as reasonable to become a real, live human being in the mind of the people you converse with.
+
+h4. 3. Be persistent
+
+There's a saying that the "squeaky wheel gets the fix". Persisting, and conveying that you're probably not going to give up until you get your way, makes it more likely that even uncooperative people will help you, if only to get you out of their way.
+
+It's of paramount importance that you continue to be very pleasant, friendly, and polite, while firmly persisting. It is socially difficult to forcibly remove or ignore someone who is polite, positive and friendly, even if they're continuing to insist on something past the point where they should have reasonably given up. The minute you frown and raise the tone of your voice, though, you're a goner.
+
+As a start-up, simple polite persistence is often enough when dealing with banks (when you want to "get a merchant account":http://danieltenner.com/posts/0006-how-to-get-a-merchant-account.html, for example), clients, or suppliers who are ignoring you.
+
+h4. 4. Be prepared to lose
+
+If you are not prepared to lose, you probably won't win.
+
+To get what you want, it is, paradoxically, more productive to start by assuming that you have possibly lost already. This results in a psychological shift where you go from trying to defend what you thought you had (which can make you overly emotional and defensive) to trying to gain as much as you can from a bad situation.
+
+This gives you a freedom of both thought and action. You can think laterally and come up with unexpected compromises and pragmatic solutions, and when you see an opportunity, you can seize it without hesitation.
+
+h4. 5. Define your objective clearly to yourself
+
+In the airport example, our objective was to get to Geneva within the next day or so. In a corporate work environment, your objective might be to get a production bug fixed today despite all the procedures that say that you need to wait 3 months and get twenty approvals. In a small business environment, you might want to save the relationship with a client who suddenly blew up, called you names and cancelled their account.
+
+You should phrase this objective in terms of results, not in terms of how you're going to get there. Doing so will also help free you to come up with workable ways to get there, rather than try to make things happen the way you originally thought they should have happened.
+
+h4. 6. Find who can
+
+Often, the person you're dealing with right now cannot help you. What you need is impossible _to them_... but not to someone else. Perhaps someone in another department, another institution, or another country can help you. You can tease out who you need to talk to with questions like "Could anyone change this?", "What do you need to do this? Who can provide it?"
+
+Suddenly, the authorisation that was previously impossible to grant may turn out to merely require the supervisor to sign a piece of paper.
+
+h4. 7. Take an active part
+
+In these kinds of situations, things often fail to happen because of the inertia of interactions between people. You can enormously enhance your chances of success by acting as a go-between, the social grease between people. If you get a response like "Oh, I'm going to have to send an email to so-and-so, and I can't do anything until I get the reply," offer to send the email yourself (and then probably follow it up with a phone call). You'll shave hours off the time from zero to done.
+
+Use this opportunity to escalate and widen your contacts within the power structure that you're trying to bend to your will. If you actively collect those contacts, you may soon find that you have more access to decision-makers than many of the people who you are dealing with ("You need a signature from a director? I just spoke to one, give me a few minutes.").
+
+h4. 8. Make the other person feel good
+
+This is particularly important when the situation is such that you are in a position of overwhelming inferiority (for example, in the airport, or when facing an executive secretary). The natural tendency is to make the other person feel bad for not helping you, and that may work sometimes, but it can often backfire because that person then associates feeling bad with your presence, and may try to get rid of you without helping you.
+
+It is much more effective to present the situation in such a way that the person who can help you will feel that they are doing something Good by helping you. So, taking the airport example, don't make the person at the ticket desk feel that they will destroy your Christmas if they don't help you. Instead, make them feel like they will have been the most essential actor in _saving_ someone's Christmas by helping you.
+
+Another example: let's say you're dealing with a supplier who has treated you badly. You have every reason to be annoyed at them, but if you really want to get what you want, you should present things in a way so that the person helping you feels like they are a good person &mdash; not a cog in an evil machine. So rather than accuse the company that they work for of various evils (justified or not), present your case in a way so that your interlocutor will feel good for helping you.
+
+h4. It's not over yet
+
+Finally, these kind of nightmare situations have a habit of lasting longer than you think and surprising you a couple of times. Taking the airport example again, it wasn't over when we got Air France to agree to let us board. It wasn't over when we climbed on the plane. It was only over when we left Geneva airport, after going through the Swiss border.
+
+When you've gone through the first step in an impossible task, it can be tempting to relax and assume that everything will go fine after this, and maybe let the stress of the situation show through. Don't. As they say, it's not over until the fat lady sings, and things can still go terribly wrong at any moment between now and your objective being achieved.
+
+Until you've got what you want _in your hand_, stay focused and expect things to continue going wrong.
+
+h3. Conclusion
+
+People react to being told "it's not possible" in a variety of ways, and not all those ways are productive. To get around the brick walls which large corporations, bureaucracies and other social organisms put in our way, it is important to:
+ 
+* *Calm down, smile and remain polite* to maintain any chance of success
+* *Become a human being* rather than a faceless number
+* *Be persistent* to grind away the brick wall
+* *Be prepared to lose* to expand your freedom of thought and action
+* *Be clear about your objective* so you can be flexible about how to achieve it
+* *Find who can*, since often the first person you speak to cannot help
+* *Take an active part* in making things happen more efficiently
+* *Make the other person feel good about helping you* so that they are more likely to help you
+* *Don't relax this stance until it's over*, it's easy to snatch defeat from the jaws of victory.
+
+I hope those tips are helpful, both in a personal and a professional setting. If you have any further suggestions, please do post them as comments, and I'll try to add them into the article as an update.
+
+<div class="footnotes">
+
+Thanks to "Josh Catone":http://mockriot.com/ for reviewing a draft of this article, and to "Bob Leung":http://twitter.com/bobleung for the excellent drawing.
+
+fn1. It worth noting that we did send a letter of complaint to Air France about this and requesting a refund, but they have not responded. Fail.
+
+fn2. Some of these practices may even help you in other situations, but they are particularly helpful when facing the impossible, and especially so when that impossible situation is wrapped in a crisis.
+
+</div>
