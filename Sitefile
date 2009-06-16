@@ -5,7 +5,7 @@ task :default => :build
 SITE.user       = 'daniel'
 SITE.host       = 'danieltenner.com'
 SITE.remote_dir = '/data/danieltenner/public'
-SITE.rsync_args = ["-av", "--delete", "--exclude=.git/*", "--exclude=validate/*"]
+SITE.rsync_args = ["-av", "--delete", "--exclude=.git/*", "--exclude=validate/*", "--rsh='ssh -p12222'"]
 
 desc 'deploy the site to the webserver'
 task :deploy => [:build, 'deploy:doit']

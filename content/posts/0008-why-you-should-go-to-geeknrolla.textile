@@ -1,0 +1,50 @@
+---
+title:      Why you should go to Geeknrolla
+created_at: 2009-04-22 12:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Start-ups
+subtitle:   (and other start-up conferences)
+excerpt:    "Yesterday, I went to my first \"proper\" start-up conference. As many of my readers know, I am no stranger to the start-up scene... I run a start-up myself (Woobius, a cool collaboration tool for architects and engineers, that helps them save money and speed up the design process), I've written numerous articles about various aspects of both technology and running a start-up (here and in other places), and I'm very active on Hacker News (<i>the</i> start-up news community/hub <i>par excellence</i>). But until yesterday, I'd not been to one of those famed start-up conferences... not FOWA, no SXSW, not TechCrunch 50, not any of them."
+layout:     post
+hnid:       573740
+filter:
+  - textile
+---
+
+!>/images/posts/0008-01.jpg!
+
+Yesterday, I went to my first "proper" start-up conference. 
+
+As many of my readers know, I am no stranger to the start-up scene... I run a start-up myself ("Woobius":http://www.woobius.com, a cool collaboration tool for architects and engineers, that helps them save money and speed up the design process), I've written numerous articles about various aspects of both technology and running a start-up (here and in "other":http://www.inter-sections.net "places":http://www.sitepoint.com/articlelist/530/), and I'm very active on "Hacker News":http://news.ycombinator.com (_the_ start-up news community/hub _par excellence_). But until yesterday, I'd not been to one of those famed start-up conferences... not FOWA, no SXSW, not TechCrunch 50, not any of them.
+
+There's a number of reasons why you should go to a conference like this. I'll start with the more obvious ones.
+
+h3. Great talks
+
+I enjoy listening to good talks online, when I find them. Many great talks never make it online, though. Now, I can't vouch for other conferences, but in the case of Geeknrolla, "Mike Butcher":http://twitter.com/mikebutcher did a great job selecting interesting speakers who had something useful to say. Most of the talks seemed too short, but then, that was probably intentional &mdash; after all, it's much better than the opposite! For those who are curious, most talks were live-blogged on "TechCrunch UK":http://uk.techcrunch.com/ by "Basheera Khan":http://twitter.com/bash, and no doubt recordings of some of them will become available over the next few days.
+
+<p style="float:left; padding-right: 25px; padding-top: 10px"><img src="/images/posts/0008-03.jpg" alt="" /></p>
+	
+Worth highlighting was "William Reeve's":http://twitter.com/wreeve talk, which explained in fascinating detail how ScreenSelect overtook its competitors through eagle-eyed management of its cash flow (which, early on, they realised would be a key to succeeding in the cash-intensive DVD rental market). I don't know why this one wasn't live-blogged, as it was probably the best talk of the day. Sharp, insightful, directly useful, inspiring &mdash; we need more speakers like William. Another one that stood out for me was "Andy McLoughlin's":http://twitter.com/bandrew talk on "hiring a team of peers":http://uk.techcrunch.com/2009/04/21/geeknrolla-building-strong-teams-means-falling-in-love-and-treating-each-other-like-family-says-andy-from-huddle/. It was full of helpful advice and stern warnings, and yet entertaining and fun.
+
+!>/images/posts/0008-02.jpg!
+
+"Leisa Reichelt":http://twitter.com/leisa  also gave an excellent presentation on "designing good user experience":http://uk.techcrunch.com/2009/04/21/geeknrolla-designing-good-user-experience-starts-with-picking-your-audience/, which proposed some effective processes for how to improve the user experience of your application without spending big bucks on an expensive user experience expert (something that all cash-strapped start-ups &mdash; and aren't we all cash-strapped? &mdash; should care about). This was of immediate interest as user experience is one of the most important elements at "Woobius":http://www.woobius.com. If you can find a recording of this talk, I highly recommend it.
+
+I'll mention one last talk, by Fred Destin of Atlas Ventures, who explained in great detail the "steps to getting a VC deal":http://uk.techcrunch.com/2009/04/21/geeknrolla-european-entrepreneurs-need-to-be-more-aggressive-and-follow-up-more/, from initial approach all the way to a sealed deal. Even though we don't intend to raise VC funding for "Woobius":http://www.woobius.com, this whole arcane process is quite fascinating, and it was helpful to have it laid out in detail.
+
+h3. Networking
+
+Of course, one of the reasons people go to these events is networking, and there was plenty of that going on. The talks provided an obvious topic of conversation, and introducing "Woobius":http://www.woobius.com over and over again gave both me and my cofounder plenty of pitching practice. Why would we need pitching practice? Well, because explaining your business in a minute is actually awfully similar to selling it to your customers. We learned a thing or two about how to get people interested in "Woobius":http://www.woobius.com, and they will certainly influence our homepage design for the better.
+
+It was also _great_ to meet so many other entrepreneurs. I did manage to hook up with a few people from "Hacker News":http://news.ycombinator.com, but there were also many other people to meet and it was really quite inspiring to see just how many other motivated entrepreneurs there are out there, each with their own awesome, nascent (or more advanced) business.
+
+h3. A community worth belonging to
+
+Which brings me to the most important thing that I got out of Geeknrolla: the feeling of belonging to a community that is really worth belonging to.
+
+As entrepreneurs, we tend to have a very finely tuned bullshit detector. Detecting bullshit before it hurts you is a pretty essential skill in pretty much any start-up. Now, although I had not been to this specific type of conference before, I have of course been to many non-start-up related conferences and networking events (many of them during my previous life as a consultant). To me, the greatest contrast between this and other typical networking events was just how bullshit-free it was.
+
+Everyone at this event seemed to be genuinely trying to do something good (from starting companies to funding them or writing or talking about them), and was completely open about talking about it. In my first five minutes there, I had a lengthy chat with a VC, and he was perfectly open to talking about anything from how the recession affected investments (it doesn't, at least not for the best deals, which is what all VCs aim for) to funding troubles that some firms had had because of the September crash. This pattern repeated itself throughout the day and the evening. Cool people doing cool things and willing to be extremely honest and open about the good and the bad of it.
+
+Not all communities are worth belonging to. This one is. And this is not something you can _get_ from reading articles and watching recorded talks, without actually going to one of these events: the feeling that this is an awesome bunch of people doing awesome stuff, and that you're a part of it all.

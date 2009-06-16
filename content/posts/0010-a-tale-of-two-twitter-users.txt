@@ -1,0 +1,87 @@
+---
+title:      A tale of two users
+created_at: 2009-06-15 12:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Misc
+subtitle:   Twitter, early adopters, and lead users
+excerpt:    "Eric von Hippel's concept of early adopters versus lead users is well established. How does it work in practice, though? And why is it so hard to cross that famous chasm? Let's have a look at how this process can unfold, looking at a real life example."
+layout:     post
+hnid:       658606
+filter:
+  - textile
+---
+
+
+Eric von Hippel's concept of "early adopters versus lead users":http://www.ellendiresta.com/post/2008/05/Lead-Users-vs-Early-Adopters.aspx is "well":http://whatconsumesme.com/2009/what-im-writing/fans-lead-users/ "established":http://innov8or.blogspot.com/2005/08/lead-user-bell-curve-diagram-vs.html. How does it work in practice, though? And why is it so hard to cross that famous "chasm":http://photos1.blogger.com/blogger/6979/850/1600/Geoffrey%20Moore%20Crossing%20the%20Chasm.gif?
+
+Let's have a look at how this process can unfold, looking at a real life example.
+
+!>/images/posts/0010-01.png!
+
+<div style="padding-left: 15px; font-style: italic">
+
+It is Easter weekend, a few months ago, and my friends and I have just had a delicious Chinese hot pot. As we sit around and talk of everything and nothing, the conversation suddenly focuses on Twitter.
+
+"Twitter seems like unwanted noise," Bob declares, "I don't need more noise in my life. I can't see any use for it and I don't think I'll ever use it."
+
+Others echo his feelings.
+
+"Believe me," I reply, feeling the weariness of a conversation I've had a hundred times with a whole variety of people, with little result, "Twitter is worth your while. You can use it to network with people, to find out what's going on, to get answers to obscure questions, express interesting thoughts... it's very versatile, and the way you end up using it won't be quite the way that I use it, but you will use it."
+
+"Maybe Twitter is only useful for people like you, who feel a need to express themselves and communicate with lots of people online. I don't need that extra distraction in my life. I'm happy with the way things are."
+
+Here we go again...
+
+</div>
+
+h3. Struggling for the right words
+
+Why is it so hard to convince people that an application (like Twitter) is good for them?
+
+I've been using Twitter for over a year. Back in those days, I was skeptical too. But some people that I trusted told me, "look, just try it, it rocks." I did try it, and they were right. Now nary a day passes when I don't tweet about things ranging from articles that I've read and liked to interesting ideas that have passed through my head. I have 500 followers, and I follow as many. Twitter feels as much a part of my social world as my mobile phone does &mdash; perhaps more.
+
+I am an active, avid Twitter user. Not a "Social Media expert", desperate to gain huge amounts of followers. Not a celebrity with a million followers. Not a Twitter obsessive who tweets a hundred times a day. I'm a normal human being, using Twitter actively, but with moderation, for what it is, with no specific goal (marketing, business, networking, etc) in mind.
+
+And to me, the value of Twitter is so blindingly obvious that I can't quite explain it convincingly to others. Shortly after "MiniBar":http://www.meetup.com/minibar/, a month or so ago, I was observing to a group of entrepreneur friends:
+
+bq. Isn't it funny how at the same time, in one circle of "real life" friends, we struggle to convince people that Twitter is something worth their while, yet in another circle of more connected friends, the fact that Twitter is worthwhile is so obvious that to even bring up the subject is basically boring and tedious, lame old news not worth discussing?
+
+That, in fact, I believe, is the problem. Many of us hackers are early adopters. We're willing to jump into a new service on a whim, and figure out what to do with it as we go along. We can see the potential of something as simple and basic as Twitter even without being told all the different ways we _should_ use it. We can make our own path. To us, Twitter is a huge blank canvas that we can paint in whichever way we want, and we love it that way.
+
+But because of this vision, we find it hard to distill the essence of what Twitter is to others. Because to us, there is no singular essence, but a cornucopia of possible uses. But this is not how other people function, they want concrete benefits before they will dip their toe. By the time those more obvious benefits finally emerge, however, we've lost interest in trying to convince others, because we've already been trying so damn long.
+
+And that's fine, because, here's the good news, we're not alone in this dynamic.
+
+h3. Lead users
+
+The typical "product adoption curve":http://en.wikipedia.org/wiki/File:DiffusionOfInnovation.png is broken up into multiple segments. If we're the early adopters, who comes next? The leaders of the early majority, the people who won't put up with a product that doesn't work, but are willing to dip their toe when the time is right, are called "lead users". They'll only use a new product when they can see a use for it, but once that use becomes obvious, they'll jump in and start to adapt the product to the uses they can see.
+
+It turns out, Bob is a lead user. Shorlty after declaring his eternal distaste for the additional distraction of Twitter, he gave in and created an account. Like everyone else, he ignored it for the first month. And then, one day, he started using it in earnest. He spotted a use for it, when he noticed that a lot of influential architects (people who are early adopters in the architectural space, like him) are on Twitter.
+
+Once he discovered that, he took to Twitter like a fish to water. Soon he was following a hundred people, and a lot of them followed him back. He made the effort of tweeting once or twice every day. All the while, he declared that he was only using it for business, and couldn't see any _personal_ purpose to it, that maybe this was just my cup of tea and not his (does that discourse sound familiar yet?). Yet he used it, more and more.
+
+And something else happened. Bob started convincing others to join Twitter. In the few weeks since he started using Twitter in earnest, he's convinced 3 times as many people to join Twitter as I did in a year. Sure, they're not all that active yet, and they mostly have a very small circle of followers/followees, still, but I'm not worried. They'll get there (such is the power of Twitter). Everyone eventually gets there, once enough lights blink online in their social network.
+
+h3. Symbiosis
+
+So why is this worth thinking about? What can we learn from this?
+
+Well, early adopters like myself can learn from people like Bob how to be better at convincing the next wave of people to adopt a new product or technology. If you're an early adopter, you can probably think of a few people who tend to eventually adopt new technologies and gadgets that you've unearthed in your jaunts through cyberspace (or meatspace). Talk to them. Find out how they convince others, and you could become more effective at spreading the message _when you want to_.
+
+That's an important caveat, because often we don't really want to. For the most part, although we, early adopters, do care about convincing our friends to follow our lead towards progress and the greater good, we don't care _that much_. We're far more interested in uncovering the next new fun thing and painting on that blank canvas than in spending all that tedious effort figuring out what will convince the masses to adopt something that we discovered a whole _six months_ ago. But we do care enough to try, at least with our close friends.
+
+<div style="float:right">
+	<a href="http://img36.imageshack.us/my.php?image=v7m.jpg" target="_new"><img src="/images/posts/0010-02.jpg" border="0"/></a>
+</div>
+
+More importantly, I think, lead users can learn from this. If you're a lead user, identify who the early adopters are in your social circle, and pay attention to them. They'll lead you on to the next big thing. What you'll get out of it is that you'll be able to catch those trends earlier and be even more of an influencer of the people who revolve around you.
+
+And please, please, never declare that you see no use in something new that they bring you.
+
+Otherwise, someone might bring up your comment about "not using Twitter for personal purposes" when you're caught tweeting "pictures":http://twitter.com/bobleung/status/1971268275 of "defrosting":http://twitter.com/bobleung/status/1971494264 "watermelons":http://twitter.com/bobleung/status/1972273520.
+
+<div class="footnotes">
+
+Many thanks to "Bob Leung":http://twitter.com/bobleung and "Dale Harvey":http://twitter.com/daleharvey for reviewing drafts of this article.
+
+</div>
