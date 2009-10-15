@@ -1,0 +1,96 @@
+---
+title:      What problems does Google Wave solve?
+created_at: 2009-10-15 12:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Misc
+subtitle:   A matter of perspective
+excerpt:    "There are countless pundits and other tech gurus putting down Google Wave as a disappointment, lately. Most of the disappointment seems to come from the fact that nobody seems to get what Wave is for. So they compare it to social media. Is Wave the next Twitter? Nope. Is it the next Facebook? Nope. Is it going to replace Instant Messengers? Possibly, in some circumstances, but not any time soon. I believe this is partly Google's fault: they released Wave to geeks and hackers and social media folks first. But Wave is not a geek/hacker tool, or a social media tool, it's a corporate tool that solves work problems (more on that later). On the other hand, they never claimed it would be a Facebook replacement or a Twitter killer. Google calls wave an \"online tool for real-time communication and collaboration\". The way Google should have advertised Wave is: \"it solves the problems with email\"."
+layout:     post
+hnid:       883116
+filter:
+  - textile
+---
+
+There are "countless":http://jens.mooseyard.com/2009/10/the-lost-lesson-of-instant-typing/ "pundits":http://www.slate.com/id/2232311/pagenum/all and "other":http://scobleizer.com/2009/10/01/google-wave-crashes-on-beach-of-overhype/ "tech":http://www.louisgray.com/live/2009/10/google-wave-hits-shore-flash-flood.html "gurus":http://www.readwriteweb.com/archives/google_wave_reactions.php describing Google Wave as a disappointment, lately. Most of that seems to come from the fact that nobody seems to get what Wave is for. So they compare it to social media.
+
+Is Wave the next Twitter? Nope. Is it the next Facebook? Nope. Is it going to replace Instant Messengers? Possibly, in some circumstances, but not any time soon.
+
+<div align="center">
+!/images/posts/0012-01.png!
+</div>
+
+I believe this is partly Google's fault: they released Wave to geeks and hackers and social media folks first. But Wave is not a geek/hacker tool, or a social media tool, it's a corporate tool that solves work problems (more on that later). On the other hand, they never claimed it would be a Facebook replacement or a Twitter killer. Google calls wave an "online tool for real-time communication and collaboration". The way Google should have advertised Wave is: "it solves the problems with email".
+
+At "Woobius":http://www.woobius.com, we've been working at resolving the problems with email for some time. Woobius is a solution to some of the problems of email within the construction industry. We've "blogged":http://www.woobius.com/scribbles/posts/0017-construction-collaboration.html and "given talks":http://www.ustream.tv/recorded/1509410 about it. Perhaps that's why it was immediately obvious to me and my team why Google Wave is *awesome*.
+
+h3. What's the problem with email, anyway?
+
+To most geeks, the main problem with email is spam. They don't have a problem with online collaboration - they use "Google Docs":http://docs.google.com/, "Etherpad":http://etherpad.com/, "Skitch":http://skitch.com/, screen sharing tools, or any number of collaborative whiteboard applications. So the main problems for geeks are that they're signed up to so many services that they get inundated with notifications, monthly newsletters, automated messages, and shreds of spam that manage to get through GMail's spam filters. But when they want to collaborate on a document or picture, they can find the tools they need, most of the time.
+
+But then again, most geeks don't do all that much document-based collaboration, by email or otherwise. Programming doesn't require a whole lot of collaboration, beyond that provided by source control tools and bug tracking system. Being Robert Scoble probably doesn't require you to spend days working on a specification document for some finicky aspect of project X, or at least not very often, and he's probably not the one collating everyone's suggested changes and resubmitting the document for further review.
+
+In your average corporate environment, though, this happens all the time. People work on documents, presentations, etc. They have lengthy discussions over email. Pieces of work bounce back and forth across one or multiple organisations for weeks before they're finalised. People are brought on to the conversation late in the day. Attachments get lost. Inboxes fill up and emails bounce. It's a major pain.
+
+So what are the problems with email in a corporate environment, and what does Wave do to address them?
+
+h4. Problem 1: Collaborating on a piece of text
+
+It's hard to use email like you would use, say, Etherpad - to collaborate on a document that later needs to be sent out. Most such collaborations end up being done either via a Word document with change tracking, or, when they're more ad-hoc, via a long thread of email with corrections coming in from every direction. It's a nightmare to keep track of and collate all that feedback. Even giving the feedback is difficult sometimes: you have to quote the context and make sure your change is clearly outlined.
+
+Google Wave resolves that by effectively integrating Etherpad's features into the email client. Putting an email to an important client together, with feedback from the team, becomes a breeze.
+
+h4. Problem 2: Adding new people to the conversation
+
+With a typical email thread, you can forward the whole thread to a new participant, or add them into the next reply, but they'll only get a garbled, over-indented mess, in reverse chronological order. If you've ever been added late into an email thread that had already been going on for a week and involved two dozen replies, you know what I mean.
+
+Google Wave solves that by giving exactly the same view to everyone, regardless of when they've been added.
+
+h4. Problem 3: Keeping added people added
+
+Many times, when you add new people into a conversation, they get dropped again later, when someone replies to all from an earlier email that didn't include the new participants. Sometimes it takes a while before you realise that key people have been dropped out of the conversation. That costs time and hassle both for the people who were dropped and those who weren't.
+
+Wave solves that by making "dropping people" an explicit action, rather than something you can do by mistake.
+
+h4. Problem 4: Attaching files
+
+Most large companies have an email storage problem, so they limit the size of people's mailboxes. Because of that, it's not uncommon to see "Inbox full" bounces when sending large documents around. Not only that, but sending documents is iffy at best. The SMTP protocol doesn't seem to be all that good at sending large files.
+
+Now, to be fair, Wave will probably suffer from the same limitations as any HTTP upload applications - but that's still a whole lot better than your average email. Sending emails over 10MB usually fails. Attaching a 10MB file to a Wave is no problem at all.
+
+h4. Problem 5: Lost attachments
+
+When you reply to an email with an attachment, the attachment is dropped. This is a good thing with email, because it stops a single email thread from unnecessarily clogging up both the mail server storage and its bandwidth. Since the whole email is transmitted down the wire when you click "send", this kind of limitation is unavoidable.
+
+What this means, however, is that if you bring new people into a conversation, by adding them as recipients or by forwarding them the latest mail in the conversation, they won't get any of the attachments. Not only that, but if you're looking for that first attachment, and the conversation has been going on for weeks (and, like everyone else, you receive upwards of 50 relevant emails a day), finding that attachment can be quite difficult. If there were multiple attachments throughout the life of the discussion, gathering them all to send them to a new participant is exponentially more tedious.
+
+With Wave's model, however, the attachments stay there, where you put them. They're only sent down the wire, from you to the email server, once. You never need to re-forward an attachment to someone. When you add new people to the conversation, they get access to all the attachments right away.
+
+h4. Problem 6: Multiple conversation branches
+
+Email conversations are, basically, flat. If you try to have multiple branches of conversation in email you end up with a sordid mess. You might do that a few times in your life, but you quickly learn not to. But flattening everything has its own share of problems - every email ends up containing replies to several other emails. It becomes very difficult to track what was replied to and what wasn't. And it's hard to collate all the suggestions effectively.
+
+Google Wave resolves this by allowing clear, obvious threading. Yes, if you use a lot of threading in an instant messaging context, it will be hard to manage. But within the typical email collaboration context, it will keep things a lot more clean and tidy than not having threading.
+
+h4. Problem 7: Small corrections
+
+With email, if your only comment on someone's email is to fix a dozen typos, you still have to do almost as much work as if you were making substantial changes to their proposed text. You need to quote the context, highlight which bit you corrected, and then rely on the other person applying your changes back to the original document (which they often forget to do &mdash; after all, it's just a few typos).
+
+With Wave, no such problem - you can just edit the original text and make those changes. If the person who submitted that document wants to review your changes, they can play them back.
+
+h4. Problem 8: Email to IM to Email
+
+Instant Messaging is a powerful, useful technology that has proven its worth. But it's not very well integrated with email. If you rely on your inbox to keep track of conversations, there's still this gaping black hole of IM which is tracked somewhere else (if at all). GTalk tried to resolve that by storing IM conversations in your inbox - and that was a good step.
+
+What Google Wave does, however, is much bolder: it recognises the fact that a lot of IM conversations, in corporate environments, begin with an email exchange that's just getting too rapid. When you send more than 3 emails to the same person in one minute, it usually makes sense to either pick up the phone or IM them. With Google Wave, this doesn't need to be a conscious decision: if you're replying quickly, Wave smoothly turns into an IM-like platform. When your replies get slower again, it, once again smoothly, turns into an email-like platform.
+
+This means that the whole conversation, whether email-like or IM-like, is tracked and searchable in the same place, and visible to all those who are invited to the conversation.
+
+h3. Conclusion
+
+I believe that people who don't see what Google Wave is for are simply looking at it from the wrong angle. Wave is not a social tool. It's not Twitter, it's not GTalk, it's not Facebook. It was never designed to appeal to the crowds of geeks who are currently trying it out.
+
+Wave is built for the corporate environment. *It's a tool for getting work done*. And as far as those go, it's an excellent tool, even at this very early stage.
+
+It will probably take years before Wave fully penetrates large corporations and replaces the email systems everyone is used to. But it solves so many thorny problems with email that it might well manage to do so, where so many other tentative "email fixes" have failed.
+
+In the meantime, we should stop judging it as a social tool and start looking at how we can use it for real work. Invite your colleagues to it, and get working.

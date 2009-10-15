@@ -1,0 +1,78 @@
+---
+title:      Taking a stand
+created_at: 2009-06-18 12:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Misc
+subtitle:   Facebook, TechCrunch, and Free Speech
+excerpt:    "There is a debate raging, lately, about whether or not Facebook should block holocaust-denial groups from using its platform. Surprisingly, Facebook, both as a company and as a collection of individual employees with their own opinion, have taken the courageous position that free speech should be respected on Facebook, whether or not they approve of it."
+layout:     post
+hnid:       664066
+filter:
+  - textile
+---
+
+!>/images/posts/0011-01.png!
+
+There is a "debate raging":http://www.techcrunch.com/2009/06/15/facebook-employees-speak-their-mind-on-holocaust-denial/, lately, about whether or not Facebook should block holocaust-denial groups from using its platform. Surprisingly, Facebook, both as a company and as a collection of individual employees with their own opinion, have taken the courageous position that free speech should be respected on Facebook, whether or not they approve of it.
+
+Michael Arrington of TechCrunch has taken the opposite and equally brave view: holocaust deniers are hateful scum, whose constant subtext is that someone should finish the job of exterminating all the people they consider to be jewish, and so they should be removed forcibly from Facebook. There's been a lot of emotion in the responses to his articles, and, to an extent, that's not really surprising. The topic is sensitive and people hold passionate views on either side.
+
+This is my humble attempt to untangle this Gordian knot.
+
+h3. Free speech is good
+
+First, let's establish a premise. Free speech, by which I mean the right to say what you want, whenever you want, and wherever you want, is a good thing. Not only that, it is essential for any free society. Why is it so important? Because it is one of the few fundamental tools we need to keep governments in check, and to keep individuals free. The dictatorial Iranian government is in trouble precisely because they did not manage to control free speech completely. Having let it slip from their grasp, they have lost control over their people &mdash; hopefully permanently.
+
+Secondly, it might be worth defining what exactly free speech is, and what it is not. A common misconception about "free speech" is that it means that you can say whatever you want, whenever you want, and never face any consequences for what you said. This is woefully incorrect. *Freedom of speech does not mean irresponsibility of speech*. Censorship occurs when you are not allowed to say what you think, not when you are punished for saying something which you should not have said. When laws punish speech after the fact, those laws might be wrong, but they are laws, not censorship[1].
+
+h3. Not all speech is good
+
+The third important point is that not all speech is equal. Some speech has direct, negative consequences. Few would argue that a person who yells "Fire!" in a crowded theatre, and causes a stampede that results in 5 deaths and 25 injuries, should not be prosecuted. As an even more immediate example, the words "Shoot him", spoken to someone who holds a gun to your head, are obviously not good speech. The person who said those words is as responsible for your murder as the one who pulls the trigger, and should be punished for it.
+
+All this is recognised by our current laws, though they vary on what is defined as "dangerous speech", with many European countries defining what they call "hate speech" as a kind of dangerous, punishable speech.
+
+So if there are laws about it already, why the commotion in this case?
+
+h3. Hate speech in your living room
+
+Imagine we have invited a guest in our living room, and this guest starts airing their views about black people. Soon, all one can hear is this person, spouting racist jokes and other similar statements. Would we, for the sake of free speech, allow this person to remain in _our_ living room? Most likely not. Even if we were supremely tolerant and somehow allowed this person to stay until they left by themselves, we would probably not invite them again.
+
+What if this person came in and, instead of making racist statements, spent the whole evening loudly declaring that our party sucks, and that they don't think we should be holding parties, and that people who go to parties are fools and should remain quiet? There are more parallels between this and the previous example than one might think, at first.
+
+h3. Defending hate speech is attacking free speech
+
+Hate speech is not good speech, but to some people it is not clear why. One can make arguments about how xenophobic speech leads to wars, how racist speech leads to race crimes, how anti-Semitic speech leads inexorably towards more violence against jews, but some people are not convinced by this utilitarian argument. They believe that absolute, total, uncompromising freedom of speech is the only truly free speech.
+
+But this is a self-contradicting idea. Hate speech is bad not because it is distasteful or untrendy, but because it goes against the very idea of individual freedom, of speech or otherwise. In other words, *hate speech directly attacks free speech*. Any large, public, inclusive and tolerant forum that promotes hate speech acts against its own aim and self-interests, since racists, xenophobes, homophobes and other anti-Semites do not support the existence of a large, public, inclusive and tolerant forum.
+
+It is important to emphasize that *such a forum does not have a duty to serve those who would destroy it* by creating dissension instead of harmony. That would be pushing ideology to the point of stupidity. I may or may not support your right to bear arms, but you have the right to express your opinion about it. However, I do not support your right to express your desire to shoot me. Similarly, Facebook does not have a duty to tolerate the kind of speech that contradicts their very existence as a medium of democratic mass communication.
+
+Facebook may want to let people express themselves freely, but they do have a right to decide how they will treat such speech after they discover it. But Facebook also have the responsibility to live up to how they use that right.
+
+h3. A global living room
+
+If we were to regularly entertain racist guests in our living room, we would rightly be labelled racist, whether or not we happened to be racist, because although we do not have a _duty_ to expel such guests from our premises, we do have the _right_ to do so (since it's _our_ living room), and the _choice_ to not exercise that right would justly reflect on us.
+
+Facebook is a private property, whether or not they try to present themselves as a "social utility". They have a right to remove content that they deem inappropriate, a right which they are quite happy to exercise when it comes to other forms of unpleasant content (such as obscenity). The fact that Facebook choose to exercise that right to remove pictures of breast-feeding women, but choose _not_ to exercise it when it comes to removing holocaust deniers, is a powerful statement of Facebook's editorial stand, whether or not they wish to make that statement.
+
+There is no contradiction between free speech and removal, after the fact, of images, statements, or accounts that go against the guidelines for the acceptable use of Facebook. It is well known that there are many Jewish people working for Facebook (its founder, among others), and so this editorial stand is puzzling. Certainly they feel they are taking a noble moral stand by refusing to remove anti-Semitic hate speech from Facebook, but they are mistaken. They are at best guilty of double-standards, and at worst guilty of behaviour which is in direct contradiction with Facebook's nature as a large, public, inclusive and tolerant forum.
+
+*Supporting hate speech is not defending free speech. Supporting hate speech is attacking every freedom we care about, including freedom of speech.*
+
+The goal of Facebook is to promote communication, not to foster dissension, so *Facebook has a duty to itself to invite wrongdoers to go away*, by observing what is done, and acting on the merit of the individual cases.
+
+h3. The difficulty of taking a stand
+
+In all that, I don't want to come down too hard on Facebook. I think it is commendable that a multi-billion dollar company is willing to take a moral stand. Many other companies of that size are quite willing to do whatever it takes for money, and Facebook should be regarded with admiration for being willing to take this strong, public view (however wrong they might be) and defend it so passionately. I think they should also be commended if, eventually, they realise the error of this view and change their mind (another rare quality amongst large corporations). It is refreshing to see a large company acting more like a human being, for once.
+
+Similarly it is commendable for Michael Arrington to be willing to "call Facebook out":http://www.techcrunch.com/2009/05/10/jew-haters-welcome-at-facebook-as-long-as-they-arent-lactating/ on this error of judgement, particularly since the subject is so delicate, sensitive, and liable to cause unpredictable backlashes in the public opinion. Whatever naysayers may think, someone like Michael Arrington has something very real to lose every time he takes such a controversial stand: his reputation. He too is worthy of admiration for taking this very public stand.
+
+Whether or not you agree with this article, it is worth considering, before you form an opinion and comment, that you, me, Facebook, and Michael Arrington, we are all, ultimately, on the same side, fundamentally opposed to the holocaust deniers, racists, xenophobes, homophobes, dictators, and other haters of freedom who would destroy us. 
+
+It is perhaps also worth remembering that this battle is not won yet.
+
+<div class="footnotes">
+
+fn1. This is probably only true in countries which are mostly free (like most of the western world). In countries where laws exist that mean you will be shot for saying something, obviously the fact that you are only shot after saying it is irrelevant.
+
+</div>
