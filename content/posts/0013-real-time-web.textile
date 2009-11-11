@@ -1,0 +1,80 @@
+---
+title:      The questionable value of the real-time web
+created_at: 2009-11-03 12:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Technology
+subtitle:   Demand-side attention economics
+excerpt:    "Everyone is talking about the \"real-time web\". That's usually a pretty strong indication of a buzzword that will soon not mean much at all. In fact, some will argue that it already doesn't mean much. And yet, as Paul Graham's web 2.0 article showed, it is possible to extract value even out of apparently meaningless buzzwords."
+layout:     post
+hnid:       919161
+filter:
+  - textile
+---
+
+"Everyone":http://www.readwriteweb.com/archives/new_netvibes_will_be_worlds_biggest_real-time_feed.php "is":http://mashable.com/2009/10/29/real-time-web-trends/ "talking":http://www.techcrunch.com/2009/10/24/nsfw-weezer-plane-crashes-and-everything-else-thats-worrying-about-the-real-time-web/ about the "real-time web". That's usually a pretty strong indication of a buzzword that will soon mean very little. Some would argue that it already doesn't mean much. And yet, as "Paul Graham's web 2.0 article":http://www.paulgraham.com/web20.html showed, it is possible to extract value even out of apparently meaningless buzzwords.
+
+"Real-time web" can mean any number of things, from "live updates without refreshing the page" to "see text as it's typed", but all those are technological rather than conceptual definition. At its core, the concept of "real-time web" must be about the immediacy of information flow. Something happens (whether it's someone typing a message to you or Michael Jackson dying) and you find out about it immediately (or nearly so). 
+
+Of course, with that definition, the real-time web is "nothing new":http://www.w3.org/Architecture/9709_Workshop/ -- except perhaps for the "web" aspect of things. Email, with a good server (like Exchange or Gmail) and client, has been nearly real-time for quite a while. Instant messaging doesn't lack immediacy. The main reason this feels new is because real-time updates are popping up in places where you'd normally expect static information, i.e. web sites. It is, of course, a natural, inevitable consequence of those pages becoming more and more dynamic as technologies spring up to enable this.
+
+<div align="center">
+!/images/posts/0013-01.png!
+</div>
+
+Which is all very nifty and fun, but what few people ask is whether it is actually useful.
+
+h3. Are real-time updates valuable?
+
+From the point of view of a publisher[1], real-time dissemination of the content you produce obviously has value[2]. But what about the point of view of the consumer of that content?
+
+Clearly, real-time updates are useful in some circumstances. For example, if you depend on information to do your work, real-time updates are not just useful -- they're an essential competitive advantage. A trader who gets his updates 20 minutes late is going to be eaten alive by the market. A news blogger who gets her updates an hour late won't be breaking any news.
+
+Real-time updates of information that you urgently need for your work is clearly valuable.
+
+Another useful application of real-time updates is in collaboration. When you're trying to actually do some work together with someone, real-time feedback else can save you from having to have a live, in-person meeting with them. Being able to have a quick IM conversation with someone instead of a lengthy email exchange over several days has obvious value. So real-time updates are valuable when collaborating with someone on a piece of work.
+
+Already, though, the value is somewhat tinged with distraction. Instant Messaging is great when you need it, but if someone pesters you on IM when you're deep in a coding session or writing an article, it can destroy your productivity with little benefit (to you, anyway). Continuous email pings are a great way to ruin a productive day, which is why many productivity gurus recommend checking your email only twice a day (so much for GMail's real-time updates). At least, if it's part of your work, there might be some justification for it, though.
+
+h3. The cost of real-time
+
+What about real-time updates about things that have nothing to do with work?
+
+It is debatable whether it makes any real difference to our lives, in terms of the value we gain or generate, if we find out that the latest "#balloonboy":http://search.twitter.com/search?q=%23balloonboy pseudo-news as soon as it occurs, or three hours later. There is certainly an "ambient knowledge" effect which means that being able to talk about current events can be useful to build relationships with other people who care about current events. If we don't know _anything_ about what's happening around us, we will probably find it harder to network with new people, but that is an extreme case, and we definitely don't need real-time information to keep up with the latest UK MP expenses scandal or the most recent rantings of some celebrity of interest.
+
+What's not debatable is that real-time information has a very real cost: our attention. Constant interruptions of our attention on one set of things harm our ability to concentrate on another set of things. If I swallow 10 hours of my time keeping up to date with the latest details of the #balloonboy saga, I can't spend those 10 hours doing other things. The value we lose by wasting time is relative, but most of us do have something better than _nothing_ to do with our time. 
+
+No matter what our current station in life, we each have the same, terribly limited amount of time available each day: 24 hours, no more, no less. How we allocate this time largely determines where we end up in life. Time is a multiplier of our potential to do things, and spending large amounts of this precious resource on things that don't matter is a tragic waste.
+
+And yet, much of what we pump through the real-time veins of the web (whether via Twitter, Facebook, Friendfeed, or some other channel) tends to be more entertaining than valuable. Some articles are definitely valuable. I hope that you find my articles to provide some value to you. I would say that Paul Graham's articles are almost always very valuable. But... do you need to read Paul Graham's articles as they happen? What's the value in that? Let's get back to this later.
+
+h3. The Real-Value Web
+
+The web is swamped with enormous amounts of information every single day. Most of it is utter trash, and luckily we've developed "all":http://news.ycombinator.com "sorts":http://www.reddit.com "of":http://delicious.com "mechanisms":http://news.google.com for filtering it. Of the stuff that comes through the filter, the vast majority is entertainment. That's not without value, but only in the right proportion. Spending all day watching _Friends_ reruns, however entertaining, is a waste of time. And yet, a lot of the focus on real-time news sites, such as "LazyFeed":http://www.lazyfeed.com/, seems focused on providing better, faster ways to pump junk into our attention stream in more and more disruptive ways.
+
+There's something not quite right with that.
+
+Rather than focus on the "real-time" web, I think we still need to figure out how to make the web provide us with real value. What is real value? Steve Pavlina has a great definition of what he calls "strong value" "here":http://www.stevepavlina.com/blog/2008/12/how-to-create-real-value/ : strong value produces *tangible, positive change* in the people that receive it.
+
+One of the characteristics of strong value is that it tends to be less ephemeral than entertainment. Paul Graham's articles are still great, insightful reads years after publication. As a start-up founder, many of the articles by people like "Eric Ries":http://www.startuplessonslearned.com/, "Steve Blank":http://steveblank.com/, "Jason Cohen":http://blog.asmartbear.com/, "Mark Suster":http://www.bothsidesofthetable.com/ and numerous others, are valuable to me no matter whether I read them as they are published or much later. Why would I need real-time notifications of those? On the contrary, it is better to be notified of them when I have the time and attention to read them properly, rather than to be interrupted mid-way through my work to read a piece of timeless content that could easily have waited for the weekend (and might even have gathered some useful comments by then).
+
+In fact, that is exactly what increasingly popular sites like "Instapaper":http://www.instapaper.com/ allow you to do: save the site for later, so you can read it at a time when it's not interrupting you. In a sense, one could say Instapaper is the exact opposite of Lazyfeed: it takes a piece of content you found _right now_ and turns it into something you'll check out later, when you have time.
+
+There is one advantage to hearing about articles soon after their publication, as I mentioned earlier. Thanks to sites like "Hacker News":http://news.ycombinator.com, we can talk about those articles. There is value in that discussion. The fact is, the discussion on a Paul Graham article can be just as valuable as the article itself, and you can only join in that discussion in the day or so after the article has been published. That said, even that doesn't require _real-time_ notification of new articles. If you check Hacker News a few times a day, you can be fairly involved in the conversation there, without any real-time disruption.
+
+h3. Conclusion
+
+Real-time updates are very useful under some specific, work-related circumstances, but they come with a very real cost in stolen attention and disrupted workflows. Since they have a cost, you should think twice before using them, unless they also have a benefit to you. If you're a consumer of information (and we all are), turn off the live notifications, unless you need the information for your work. Instead, revert back to checking sites like Hacker News or Reddit on your own schedule.
+
+As an example, I use Tweetie for my Twitter needs on the desktop. It doesn't have any automatic Growl notifications unless someone sends me a message personally. The clear advantage of that is that I never get distracted in the middle of a coding session. But when I do want to bathe in the Tweet-stream, it's there, waiting for me.
+
+Conversely, if you're building a real-time web service, think not only in terms of the value it provides to producers of content, but also in how you can make it valuable for the consumers of content. "Find out that the balloon boy news was a hoax, within a minute" is _not_ valuable enough to most people to warrant the constant interruptions. If you don't provide some kind of tangible value to people, your service probably won't be successful in the long run, however trendy and sophisticated the technology.
+
+<div class="footnotes">
+
+Many thanks to "Roj":http://rojisan.com/blog and "Dale Harvey":http://twitter.com/daleharvey for reviewing drafts of this article.
+
+fn1. And, in today's world, everyone is a little bit of a publisher. This has some interesting consequences, but those will go in another article.
+
+fn2. What that value is, however, is not all that obvious. Is it all that valuable, to me, that this article gets disseminated on Twitter immediately, for example?
+
+</div>

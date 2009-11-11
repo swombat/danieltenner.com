@@ -2,7 +2,7 @@
 title:      What problems does Google Wave solve?
 created_at: 2009-10-15 12:00:00.000000 -00:00
 author:     Daniel Tenner
-category:   Misc
+category:   Technology
 subtitle:   A matter of perspective
 excerpt:    "There are countless pundits and other tech gurus putting down Google Wave as a disappointment, lately. Most of the disappointment seems to come from the fact that nobody seems to get what Wave is for. So they compare it to social media. Is Wave the next Twitter? Nope. Is it the next Facebook? Nope. Is it going to replace Instant Messengers? Possibly, in some circumstances, but not any time soon. I believe this is partly Google's fault: they released Wave to geeks and hackers and social media folks first. But Wave is not a geek/hacker tool, or a social media tool, it's a corporate tool that solves work problems (more on that later). On the other hand, they never claimed it would be a Facebook replacement or a Twitter killer. Google calls wave an \"online tool for real-time communication and collaboration\". The way Google should have advertised Wave is: \"it solves the problems with email\"."
 layout:     post
@@ -10,6 +10,10 @@ hnid:       883116
 filter:
   - textile
 ---
+
+<div class="translations">
+	[ <a href="http://ow.ly/uSDZ">Partial Portuguese translation</a> ]
+</div>
 
 There are "countless":http://jens.mooseyard.com/2009/10/the-lost-lesson-of-instant-typing/ "pundits":http://www.slate.com/id/2232311/pagenum/all and "other":http://scobleizer.com/2009/10/01/google-wave-crashes-on-beach-of-overhype/ "tech":http://www.louisgray.com/live/2009/10/google-wave-hits-shore-flash-flood.html "gurus":http://www.readwriteweb.com/archives/google_wave_reactions.php describing Google Wave as a disappointment, lately. Most of that seems to come from the fact that nobody seems to get what Wave is for. So they compare it to social media.
 
