@@ -1,0 +1,80 @@
+---
+title:      Learning from Wakemate
+created_at: 2010-01-23 12:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Startups
+subtitle:   Smart announcements
+excerpt:    "A few hours ago, Wakemate made an announcement that the shipping for their product would be delayed (it was supposed to be shipping by the end of January 2010). To sweeten the bad news, they thought it wise to add that people who had pre-ordered the product would get some free access to previously unannounced premium features. Perhaps surprisingly for the Wakemate team, the reaction to this has been very negative."
+layout:     post
+hnid:       1071808
+filter:
+  - textile
+---
+
+!>/images/posts/0014-01.png!
+
+A few hours ago, "Wakemate":http://wakemate.com made an "announcement":http://druwynings.com/wakemate-shipping-delayed that the shipping for their product would be delayed (it was supposed to be shipping by the end of January 2010). To sweeten the bad news, they thought it wise to add that people who had pre-ordered the product would get some free access to previously unannounced premium features.
+
+This seems reasonable, by the book - announce bad news, soften them with good news. "Yeah, we screwed up our deadlines, but we're working hard and we'll give you something for free to make up for it!"
+
+Perhaps surprisingly for the Wakemate team, the reaction to this has been "very negative":http://news.ycombinator.com/item?id=1071456, at least on "Hacker News":http://news.ycombinator.com, with people suggesting that they want a refund on their $5 preorder. I think it's fair to call this announcement a screw-up. I'm sure the Wakemate team will recover from it (in fact, it probably won't make too much difference to their bottom line in the end), but there's a few lessons to be learned from this.
+
+First, why was this apparently innocuous announcement received so badly?
+
+h3. Sweet, sour and very sour
+
+!</images/posts/0014-02.png!
+
+I don't think it has anything to do with the delay in shipping the product. Nobody's going to be _happy_ about shipping delays, but people wouldn't care that much about a mere delay -- especially people who work in the software industry, where delays are the norm. A simple "We're going to be late" announcement wouldn't have incurred such negative responses.
+
+The problem wasn't anything to do with the apparent sweetener, either -- getting free stuff is always nice. However, no one knew that Wakemate was intending to introduce premium features, and this was where the problem arose. 
+
+The second part of that problem was that Wakemate specifically said "We will be giving everyone who pre-ordered one month of Premium Analytics Features free for each month their delivery is delayed." Oh dear. So the delay could be months? They didn't mention _months_ of delay in the first part of the announcement.
+
+Those are the two points which ended up angering people. And they're both in what was supposed to be the sweetener, the part that's supposed to make us feel better about the delays.
+
+h3. We're going to charge you more
+
+!>/images/posts/0014-03.png!
+
+It's obvious why people would get upset at the later announcement of "months" of delay. The first part of the announcement doesn't make it sound like they're _that_ late on their schedule.
+
+What's less obvious is why people are getting so worked up about the mention of premium features, even after Wakemate has added that "all the previously announced features will remain free":http://twitter.com/wakemate/status/8102380070, i.e. the premium features are completely new features. So really, no one has been misled, since they're not being charged for things they thought would be free.
+
+But that's not how people perceive a new product pricing announcement, which is what this is, really. Before the announcement of premium features, everyone thought they were getting the whole lot for $50. That seems like a really good price - we get a neat technological gadget and access to an awesome analytics website, all for a $50 one-time fee. After the announcement, however, the situation feels different. We're still paying $50, but we're only getting the "free" part of the website, not everything. There'll be some important features (and they have to be important or no one will pay a monthly fee for them) that won't be accessible unless we pay a monthly fee, which hasn't been announced yet.
+
+To top it off, it's not clear which features will be free and which will be paying. It's very nice that the Wakemate team is saying "all the features which were previously announced will still be free", but that's not a very clear commitment. Everyone knows software evolves as it is developed, so presumably even the free features will be different from what was initially announced. So there's a big dollop of uncertainty thrown in here too.
+
+That's why people are getting pissed off. Their expectation was "I get everything for $50", and it's been replaced by "I get something (I'm not sure exactly what) for $50 and have to pay more for the rest, whatever that is.".
+
+h3. Some better approaches
+
+So what should the Wakemate team have done instead?
+
+Well, first of all, they shouldn't have tried to soften the bad news. "We're going to have a few months of shipping delays" might be a bitter pill, but it's not so bitter as to piss people off. I believe they should simply have made that announcement, clearly, without any fuss. No one would have been particularly surprised or offended.
+
+The second important lesson is that any announcement to do with charging people more money needs to be handled very carefully. Consumers are very sensitive about costs, and they particularly dislike monthly recurring costs, but really any announcement of an increase in cost (even if it's optional) should be treated as a major, delicate announcement. Rather than being mentioned casually in passing, this probably would have warranted several communications, progressively introducing the idea.
+
+In addition, pricing increase announcements should be wrapped in _good_ news, not _bad_ news. We want to make people feel _good_ about our product, so that they _want_ to pay for it. A good example would be: "We're happy to say that more than half of our 10'000 users have written in to say that Wakemate has really helped improve their sleep patterns. To ensure that we can continue to make Wakemate even better, we've been working on some additional, premium features that some of you may wish to pay for. Here they are: X, Y, Z."
+
+Finally, people dislike uncertainty. When you announce new pricing, you should be as clear as possible about it. Otherwise, people will often assume the worst. So if you're going to charge people, tell them _exactly_ what they'll be paying for (and what will remain free). Don't be vague!
+
+I think the best thing would have been for Wakemate to wait until a month or two _after_ the release of their product before even beginning to talk about premium features. Then, find some good news to wrap it in, and make an announcement that you're going to release these new, awesome, specific features, that people can choose to pay for.
+
+That being said, as I mentioned at the beginning of this article, I don't think this will be a critical blow for Wakemate. But we can all learn a few lessons from it.
+
+h3. In short
+
+Here's a summary:
+
+* *Treat pricing announcements seriously* - any announcement about pricing is always sensitive
+* *Be clear and precise in pricing announcements* - otherwise people assume the worst
+* *Wrap pricing announcements in good news* - make sure people are in a positive frame of mind by the time they get to the pricing part
+
+If you have any further tips about pricing announcements, please mention them in the comments and I'll add them to the list.
+
+<div class="footnotes">
+
+Note: I "preorded Wakemate":http://twitter.com/swombat/status/8084420065 a day before the announcement.
+
+</div>

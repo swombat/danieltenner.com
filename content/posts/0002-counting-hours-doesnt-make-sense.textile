@@ -38,5 +38,7 @@ So the useful question is not "how many hours do you work?" but "how much energy
 Any of these questions is more worthwhile than "How many hours do you work each day?"
 
 <div class="footnotes">
+
 fn1. This varies depending on the kind of business you run. If your business is to produce birthday cards, chances are there's a direct relationship between your hours and your success. The relationship breaks down for start-ups where the output is largely intellectual and leveraged (like a web-based application).
+
 </div>
