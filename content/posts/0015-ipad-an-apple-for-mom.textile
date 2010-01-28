@@ -1,0 +1,49 @@
+---
+title:      iPad&#58; an Apple for Mom
+created_at: 2010-01-28 12:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Technology
+subtitle:   The uncomputer for the people
+excerpt:    "To much of the geek-sphere, the iPad is somewhat of a disappointment. It's underwhelming - there's nothing all that surprising in there, no \"oh, and one more thing\" to throw some real techno-magick spices into the pot. We saw it coming from a hundred miles away, so now that it's finally here, there isn't much surprise left."
+layout:     post
+filter:
+  - textile
+---
+
+!>/images/posts/0015-01.png!
+
+To much of the geek-sphere, the iPad is somewhat of a disappointment. It's underwhelming - there's nothing all that surprising in there, no "oh, and one more thing" to throw some real techno-magick spices into the pot. We saw it coming from a hundred miles away, so now that it's finally here, there isn't much surprise left.
+
+I think part of the reason for this is, as usual, that the first round of people interpreting the meaning and purpose of the iPad are all geeks - developers, designers, and assorted Macheads who already own one or two macs at least, and an iphone. I believe the collective "Meh" is absolutely right from this crowd. Yes, the iPad is a nice-to-have, yes, I'll probably be getting one, but it's not really all that revolutionary. It doesn't do anything that we can't already do with our iPhones and Macs, after all.
+
+But geeks and assorted Macheads constitute a relatively small percentage of the computer-using people around the world. The vast majority of the world is still using Windows PCs. And for them, an iPad may be _exactly_ what they've been waiting for. Let me elaborate on this...
+
+h3. Most people don't need a computer
+
+!</images/posts/0015-02.png!
+
+Most people have a computer at home. For some (like my mom), it's an ancient Dell laptop they bought years ago. Others have bought into the netbook trend and invested a small amount of money into a machine that, for most people, can only be irritating to use (slow, small, ugly, and burns your lap - not a recipe for success). A few have actually paid good money for what was supposed to be a modern machine, and actually turned out to be yet another annoying slow, painful-to-use, Windows-based machine infested with trial software, spyware, and sometimes viruses.
+
+In today's (western) world, not having any computer at home makes life difficult. My mom needs some way to check airline ticket prices, to find out the weather, to go on Facebook, to buy movie tickets, to check her email, to call me on Skype, and a thousand other little uses that aren't very taxing or challenging for either her or whatever device she's using.
+
+She doesn't really need a computer in the same sense that I do, though. As a programmer, I need a machine that is powerful, that I can mess with under the hood, that I can do everything with. My mom needs a reasonably priced machine that Simply Works and does all those simple things that she wants to do when she's at home.
+
+In short, *most people don't really need a proper computer at all*. 
+
+And they mostly don't want one. Many people spend all day working in front of a computer, and they simply don't like the idea of coming home to yet another computer that looks just like the one they use at work.
+
+h3. iPad: the uncomputer for the masses
+
+Apple has grandiosely claimed that the iPad is creating an entirely new product category, and I think they're right.
+
+!>/images/posts/0015-03.png!
+
+Many people are comparing the iPad launch to the iPhone or the iPod - dismissed by tech critics, who were ultimately proven wrong by mass adoption of the devices. There is something to this comparison, but it's not quite fair. Both the iPod and the iPhone attacked existing product categories and made them so much better that they wiped the floor with their competition. The iPad is attempting to create a new market. A great many of the people who bought an iPod had other MP3 players beforehand. I'd wager most of the people who end up buying an iPad have never owned a dedicated tablet computer, and never considered that it would be worth owning one.
+
+A better comparison is with the Nintendo Wii. While Sony and Microsoft competed in the cut-throat market of consoles for gamers, the Wii also created a new product category: consoles for everyone else. It worked pretty well for them - it turns out that there's a lot more non-gamers than gamers, and making a device that appeals to 95% of the population sells better than making one that appeals to only 5%.
+
+And that's exactly what Apple is doing: making a slick "uncomputer" that's tailored to those people who don't actually need a computer. Many gamers ended up buying Wiis too, and I'm sure many geeks will buy iPads, but the real money-maker will be those who don't even have a Mac, and probably won't ever have one because it's too expensive and they don't need it.
+
+The price point is also just right for this market - $499 is around the range of a cheap laptop or an expensive netbook. The applications balance is right - focus on email and web, with a good helping of medias, games and various practical apps. The gorgeous look is of course going to appeal to everyone. Once it has a video camera (inevitable for the next iteration), it will do everything that normal people do with their laptops at home today.
+
+The only question, in my my mind, is, what will these people do when their cheap old Dell finally clonks out? Right now, to use an iPad and iPhone effectively, it seems you still need some kind of base station. So when the old Dell gives up the ghost, will people buy another one? Pony up for an expensive Mac? Or simply decide that the iPad is good enough and they don't want another laptop?
