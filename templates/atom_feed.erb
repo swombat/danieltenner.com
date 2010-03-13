@@ -34,6 +34,7 @@ filter:    erb
     <link href="<%%= article.url %>" />
     <id>tag:<%%= @page.site %>,<%%= article.created_at.strftime('%Y-%m-%d') %>:<%%= article.created_at.to_i %></id>
     <updated><%%= article.created_at.xmlschema %></updated>
+    <a href="http://api.tweetmeme.com/share?url=http://danieltenner.com<%%= h (@page.url) %>"><img src="http://api.tweetmeme.com/imagebutton.gif?url=http://danieltenner.com<%%= h (@page.url) %>" height="61" width="51" /></a>
     <content type="html"><%%= h(render(article)) %></content>
   </entry>
   <%% end %>

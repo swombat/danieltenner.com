@@ -34,7 +34,11 @@ filter: erb
     <link href="http://danieltenner.com<%= article.url %>" />
     <id>http://danieltenner.com<%= article.url %>,<%= article.created_at.strftime('%Y-%m-%d') %>:<%= article.created_at.to_i %></id>
     <updated><%= article.created_at.xmlschema %></updated>
-    <content type="html"><%= h(render(article)) %></content>
+    <content type="html">
+    <a href="http://api.tweetmeme.com/share?url=http://danieltenner.com<%= h (article.url) %>"><img src="http://api.tweetmeme.com/imagebutton.gif?url=http://danieltenner.com<%= h (article.url) %>" height="61" width="51" /></a>
+    <%= h(render(article)) %>
+    <a href="http://api.tweetmeme.com/share?url=http://danieltenner.com<%= h (article.url) %>"><img src="http://api.tweetmeme.com/imagebutton.gif?url=http://danieltenner.com<%= h (article.url) %>" height="61" width="51" /></a>
+    </content>
   </entry>
   <% end %>
 </feed>
