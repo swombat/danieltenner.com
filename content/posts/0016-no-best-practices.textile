@@ -1,0 +1,30 @@
+---
+title:      No best practices
+created_at: 2010-03-13 12:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Start-ups
+subtitle:   The fallacy of methodologies
+excerpt:    "I worked in Accenture for 4 years. For almost 2 of those years, my role was to be the QPI lead on my project. That stands for \"Quality Process Improvement\" lead. No, I'm not kidding you. In that role, I was essentially meant to take the \"best practices\" from the Accenture methodology and ensure the project followed them. Yet even a relatively rigid company like Accenture understood that not all \"best practices\" applied to every project."
+layout:     post
+hnid:       1188777
+filter:
+  - textile
+---
+
+I worked in Accenture for 4 years. For almost 2 of those years, my role was to be the QPI lead on my project. That stands for "Quality Process Improvement" lead. No, I'm not kidding you.
+
+In that role, I was essentially meant to take the "best practices" from the Accenture methodology and ensure the project followed them. Yet even a relatively rigid company like Accenture understood that not all "best practices" applied to every project. Project managers were not told to take everything from the book and apply it to their projects. Instead, the very purpose of the QPI lead was to work with the project manager to figure out which of the Accenture methods were suited to the project at hand.
+
+<div align="center">
+!/images/posts/0016-01.gif!
+</div>
+
+Circumstances vary, and with the circumstances, the "best practices" change. A competent project manager must be able to pick and choose the techniques that work best for his team, his project, his objectives, his budget, etc.
+
+Even Accenture, with all its big-corporation mentality, had this figured out. And yet when I look at the world of start-ups and agile projects, I see a much more religious fervour. People seem to believe that the only way to apply an agile methodology properly is to apply the whole of it, without exception. When someone picks out the bits that might work for a specific project but doesn't succeed, the blame that they receive is "you didn't follow the whole methodology".
+
+The truth is, the methodology is rarely to blame for a failed project. Ultimately, blame rests with the people: the project manager, the product lead, the developers, and so on. Blaming anything else (from "the requirements gathering" to "the methodology" or "the programming language") is just pointless blame-shifting. If your project failed, it's most likely because of you failed to adapt to your project's circumstances, rather than because you didn't follow your methodology to the letter.
+
+As a start-up project manager (and every start-up founder is a project manager, whether they know it or not) your job is to pick out the best practices _for your start-up_, apply those to help the project, and terminate, adapt or replace them when they're no longer the best practices for your start-up's stage.
+
+Every start-up is different, and calls for a unique mix of techniques. Blind obedience just doesn't cut it.

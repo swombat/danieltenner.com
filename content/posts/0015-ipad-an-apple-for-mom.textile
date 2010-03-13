@@ -6,6 +6,7 @@ category:   Technology
 subtitle:   The uncomputer for the people
 excerpt:    "To much of the geek-sphere, the iPad is somewhat of a disappointment. It's underwhelming - there's nothing all that surprising in there, no \"oh, and one more thing\" to throw some real techno-magick spices into the pot. We saw it coming from a hundred miles away, so now that it's finally here, there isn't much surprise left."
 layout:     post
+hnid:       1084116
 filter:
   - textile
 ---
