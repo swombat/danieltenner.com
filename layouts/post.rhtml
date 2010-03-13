@@ -8,54 +8,65 @@ dirty:     true
 <div class="full-post" align="left">
     <h2 class="post-title"><a href="<%= @page.url %>"><%= @page.title %></a></h2>
     <div class="post-subtitle"><%= @page.subtitle %></div>
-	<div class="post-info">
-	    <div class="post-date">Posted on <%= @page.created_at.strftime('%B %d, %Y') %></div>
-		<div class="post-author">by <b><%= @page.author %></b></div>
-		<div class="post-category">in <%= @page.category %></div>
-		<div style="clear: both; height: 1px">&nbsp;</div>
-	</div>
-	<div style="clear:both; height: 5px">&nbsp;</div>
-	<div class="post-body">
-    	<%= @content %>
-	</div>
-	
-	<div align="center" class="post-share">
-		<div class="post-backlink"><a href="http://danieltenner.com/">Go back to the homepage</a></div>
-		
-		or<br/><br/>
-		
-		<h3 class="post-share-headline">Share the joy:</h3>
-		
-		<table border="0" cellspacing="3" cellpadding="0" style="padding: 0; margin: 0; width: 300px">
-			<tr>
-				<td valign="top">
-					<script>reddit_url='http://danieltenner.com<%= @page.url %>'</script>
-					<script>reddit_title='<%= @page.title %>'</script>
-					<script src="/js/social/reddit.js" type="text/javascript"></script>
-				</td>
-				<td valign="top">
-					<a href="http://del.icio.us/post?url=<%= CGI.escape("http://danieltenner.com"+@page.url) %>&title=<%= CGI.escape(@page.title) %>&jump=no"><img src="/images/social/delicious_64x64.png"></a>
-				</td>
-				<td valign="top">
-					<a href="http://www.stumbleupon.com/submit?url=<%= CGI.escape("http://danieltenner.com"+@page.url) %>&title=<%= CGI.escape(@page.title) %>"><img border=0 src="/images/social/Stumbleupon_64x64.png" alt="Stumble It!"></a>
-				</td>
-				<td valign="top">
-					<a href="javascript:var%20b=document.body;var%20GR________bookmarklet_domain='http://www.google.com';if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.src='http://www.google.com/reader/ui/link-bookmarklet.js');void(b.appendChild(z));}else{}"><img src="/images/social/greader_64x64.png"></a>
-				</td>
-				<% if @page.hnid -%>
-				<td valign="top">
-					<a href="http://news.ycombinator.com/item?id=<%= @page.hnid %>"><img src="/images/social/hn_64x64.png"></a>
-				</td>
-				<% end -%>
-				
-			</tr>
-		</table>
-		
-		</div>
-		
-		<div id="disqus_thread"></div>
-		<script type="text/javascript" src="http://disqus.com/forums/danieltennercom/embed.js"></script>
-		<noscript><a href="http://danieltennercom.disqus.com/?url=ref">View the discussion thread.</a></noscript>
-	</div>
+    <div class="post-info">
+        <div class="post-date">Posted on <%= @page.created_at.strftime('%B %d, %Y') %></div>
+        <div class="post-author">by <b><%= @page.author %></b></div>
+        <div class="post-category">in <%= @page.category %></div>
+        <div style="clear: both; height: 1px">&nbsp;</div>
+    </div>
+    <div style="clear:both; height: 5px">&nbsp;</div>
+    <div class="post-body">
+        <div style="float: right">
+            <script type="text/javascript">
+            tweetmeme_url = 'http://danieltenner.com<%= @page.url %>';
+            </script>
+            <script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script>
+        </div>
+        <%= @content %>
+    </div>
+    
+    <div align="center" class="post-share">
+        <div class="post-backlink"><a href="http://danieltenner.com/">Go back to the homepage</a></div>
+        
+        or<br/><br/>
+        
+        <h3 class="post-share-headline">Share the joy:</h3>
+        
+        <table border="0" cellspacing="3" cellpadding="0" style="padding: 0; margin: 0; width: 300px">
+            <tr>
+                <td valign="top">
+                    <script type="text/javascript">
+                    tweetmeme_url = 'http://danieltenner.com<%= @page.url %>';
+                    </script>
+                    <script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script>
+        	    </td>
+                <td valign="top">
+                    <script>reddit_url='http://danieltenner.com<%= @page.url %>'</script>
+                    <script>reddit_title='<%= @page.title %>'</script>
+                    <script src="/js/social/reddit.js" type="text/javascript"></script>
+                </td>
+                <td valign="top">
+                    <a href="http://del.icio.us/post?url=<%= CGI.escape("http://danieltenner.com"+@page.url) %>&title=<%= CGI.escape(@page.title) %>&jump=no"><img src="/images/social/delicious_64x64.png"></a>
+                </td>
+                <td valign="top">
+                    <a href="http://www.stumbleupon.com/submit?url=<%= CGI.escape("http://danieltenner.com"+@page.url) %>&title=<%= CGI.escape(@page.title) %>"><img border=0 src="/images/social/Stumbleupon_64x64.png" alt="Stumble It!"></a>
+                </td>
+                <td valign="top">
+                    <a href="javascript:var%20b=document.body;var%20GR________bookmarklet_domain='http://www.google.com';if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.src='http://www.google.com/reader/ui/link-bookmarklet.js');void(b.appendChild(z));}else{}"><img src="/images/social/greader_64x64.png"></a>
+                </td>
+                <% if @page.hnid -%>
+                <td valign="top">
+                    <a href="http://news.ycombinator.com/item?id=<%= @page.hnid %>"><img src="/images/social/hn_64x64.png"></a>
+                </td>
+                <% end -%>
+            </tr>
+        </table>
+        
+        </div>
+        
+        <div id="disqus_thread"></div>
+        <script type="text/javascript" src="http://disqus.com/forums/danieltennercom/embed.js"></script>
+        <noscript><a href="http://danieltennercom.disqus.com/?url=ref">View the discussion thread.</a></noscript>
+    </div>
 </div>
-		
+        
