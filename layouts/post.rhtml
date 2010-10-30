@@ -42,8 +42,9 @@ dirty:     true
         	    </td>
                 <td valign="top">
                     <script>reddit_url='http://danieltenner.com<%= @page.url %>'</script>
-                    <script>reddit_title='<%= @page.title %>'</script>
-                    <script src="/js/social/reddit.js" type="text/javascript"></script>
+                    <script>reddit_title="<%= @page.title %> - <%= @page.subtitle %>"</script>
+                    <script>reddit_target="programming"</script>
+                    <script type="text/javascript" src="http://www.reddit.com/static/button/button2.js"></script>
                 </td>
                 <td valign="top">
                     <a href="http://del.icio.us/post?url=<%= CGI.escape("http://danieltenner.com"+@page.url) %>&title=<%= CGI.escape(@page.title) %>&jump=no"><img src="/images/social/delicious_64x64.png"></a>

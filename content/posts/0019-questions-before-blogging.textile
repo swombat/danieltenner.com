@@ -1,0 +1,82 @@
+---
+title:      Questions I ask myself before hitting 'Publish'
+created_at: 2010-03-15 12:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Blogging
+subtitle:   A personal filter
+excerpt:    "It's easy to publish trash on the internet. Making your useless rant about some trivial perceived problem accessible to the whole world is only a click away. Of course, most people won't find your article if it's bad (unless it's so bad that it becomes an internet phenomenon), but even so, it will contribute to the endless mass of trash that permeates the net. Unless you filter it first."
+layout:     post
+unindexed:  true
+filter:
+  - textile
+---
+
+It's easy to publish trash on the internet. Making my useless rant about some trivial perceived problem accessible to the whole world is only a click away. Of course, most people won't find my article if it's bad (unless it's so bad that it becomes an internet phenomenon..), but even so, it will contribute to the endless mass of trash that permeates the net.
+
+Unless I filter it first.
+
+I put together this list of questions for myself as much as for others. These are questions that I like to ask myself before I publish an article. Depending on the answers, I've often decided to kill an article before publishing it. This is what I do, for the kind of articles that I like to publish. This is how I roll.
+
+I'm not perfect. No one is. I have published articles that contravened my own guidelines. However, I think this is a worthwhile objective to strive for, and it might be interesting for others.
+
+h4. Does this article provide real value?
+
+Does it provide some kind of insight, idea, guide, or any other form of assistance to its readers so that they will be able to use it to make their life better? Will anyone remember reading that article and think "I learned something valuable from this"? If I had read this article X years ago, would I have done anything different in my own choices? Is this an article I wish I'd read X years ago? Is this article vitamins (need it to live) or candy (tasty, but worthless and potentially harmful)?
+
+h4. Is this value lasting?
+
+Is it an evergreen? Will someone reading this article a year from now still find it useful? What about five years from now? Ten years? Is this ephemeral value or long-term value? If the article is tied to current events, is there enough context provided in the article so that someone reading it five years from now and knowing nothing of the current context will still get it?
+
+h4. Is this article mostly negative?
+
+Is this article an attack on someone or somebody? Does it provide any positive solution, or is it purely focused on negatives? Is it just a cheap "Joel Spolsky is an idiot" or "Project management is stupid" kind of article, courting traffic instead of making a useful statement? Can I turn it into a positive article by focusing on the lessons rather than the mistakes? Can I reduce the negative part until it is not central to the article anymore? Can I make even the title positive?
+
+h4. Could I rewrite this article to be more concise?
+
+Did I follow some big tangents that I wanted to follow but which have nothing to do with the main point? Should those be removed and published as separate articles (if at all)? Am I being respectful of the reader's time by being concise? If I summarise the article (usually at the end), does the summary match the contents?
+
+h4. Am I presenting an anecdote as a law of nature?
+
+If so, am I making it clear that this is just my personal experience? Is there counter-evidence that shows that what worked for me could easily not work for others? Am I being overly assertive in some of my statements? Am I being assertive enough in the bits I do believe in?
+
+h4. Will I be proud of having published this twenty years from now?
+
+Will I look back at it and think I did something good (however naive and clumsy), or something that I regret? Will I look back and think I did it for the right reasons? Will my future self think of this as a healthy, worthwhile article for me to write and publish? How would I feel if the whole world read this article and associated it with my name? Will I be happy if all my future colleagues/employers/employees know that I wrote this article?
+
+h4. Is the article presented well?
+
+Is it readable? Are there big blocks of text that will turn readers off? Is there enough visual variation to keep the reader's eye engaged? Could I break up some paragraphs and add some sub-headings to make it easier to read? Would more images help? Am I making it easy for people to skim-read this article if that's how they want to read it? Is it possible to summarise the article at the end for people who skip right to the end?
+
+h4. Does the article begin well?
+
+Does it have enough of a hook at the beginning to grab people's attention? Does it deliver on that hook or disappoint? Is the hook cheap or overused?
+
+h4. Is the article structure as good as it can be?
+
+Can I make the ideas clearer by presenting them in a different order? Does each section flow into the next smoothly? Does it have the right structure for this content?
+
+h4. Would I read this article?
+
+When I re-read my own article a day or two after writing it, do I still feel engaged into it? Are there bits that I instinctively skip? Can I cut those bits out and make the article shorter?
+
+h4. Is the content complete enough?
+
+Did I cover all the essential points for this topic? When I show the article to others, do they feel the subject is well addressed? Could I make it more complete by doing a bit of research? Am I linking to enough further useful sources so that the reader will be able to continue the research on his own?
+
+h4. Am I adding enough of my own insights?
+
+Since good ideas are generally not original, am I adding enough of my own personal perspective to make this point worth restating? Do I have any personal perspective worth adding on this topic? Is the freshness only in the terms used or the format of the article, or also in the content?
+
+h4. Can I get some help?
+
+Do I know other people who are more knowledgeable than me about this topic, who can help make sure I'm not saying anything stupid? Can I get some people who know nothing about the topic to provide an interesting perspective?
+
+h4. Am I being overly self-critical?
+
+Am I holding back from publishing this because of a very minor issue that I should just ignore? Am I roughly on track with the _spirit_ of these questions or being overly pedantic about my own rules? Am I shooting for an impossible "perfection" when what's there is already good enough?
+
+h3. Conclusion
+
+One last time, it's worth emphasising that these are relevant questions for my blog posts. Not all blog posts seek to be instructional - nor should they. This is what I like to publish, because I feel this is how I can add most to the great pool of knowledge that is the internet.
+
+I hope you find this helpful. If _you_ blog, what questions do _you_ ask yourself, consciously or subconsciously, before hitting "publish"?

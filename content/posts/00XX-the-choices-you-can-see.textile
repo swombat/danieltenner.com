@@ -1,0 +1,88 @@
+---
+title:      The choices you can see
+created_at: 2010-03-15 12:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Life
+subtitle:   Expanding your freedom
+excerpt:    "I worked in Accenture for 4 years. For almost 2 of those years, my role was to be the QPI lead on my project. That stands for \"Quality Process Improvement\" lead. No, I'm not kidding you. In that role, I was essentially meant to take the \"best practices\" from the Accenture methodology and ensure the project followed them. Yet even a relatively rigid company like Accenture understood that not all \"best practices\" applied to every project."
+layout:     post
+unindexed:  true
+filter:
+  - textile
+---
+
+In the famous "Milgram experiment":http://en.wikipedia.org/wiki/Milgram_experiment "video":http://www.videosift.com/video/The-Original-Milgram-Experiment-1961, there is one subject who, in my mind, stands out. 
+
+The experimenter tells this man, "It is absolutely essential that you continue. *You have no other choices*, teacher."
+
+The subject replies, tactfully, "Oh, *I have a lot of choices*. My number one choice is that I wouldn't go on if I thought he was being harmed."
+
+Other subjects do not see those choices. Most of them, as we know, follow on obediently until the very highest voltages, even as the learner remains silent (possibly dead or unconscious). Why? What is different about this person, so that they see choices that others don't see?
+
+I believe that the difference is one, essentially, of freedom - intellectual freedom, to be exact.
+
+h3. Two kinds of freedom
+
+For the purpose of this article, freedom can be split into two general categories - freedom _from_, and freedom _to_[1].
+
+Freedom _from_ is the freedom from limitations. For example, if you are chained up, your freedom is limited by those chains. When you free yourself, you free yourself from those chains.
+
+Freedom _to_ is more subtle. If you are presented with two doors to get into a building, you may only have two choices - because you don't know about the third door round the back. If you have never been exposed to the concept of a backdoor, this is a choice that simply does not exist in your mind. Your freedom is limited, compared to that of someone who knows about backdoors, and you are not even aware of it.
+
+It is generally fairly obvious how to increase your freedom _from_. Remove limitations and other chains, both physical and social. Make a lot of money (that does make a lot of things possible). When your freedom _from_ is constrained, you are usually aware of it and able to deal with specific constraints one by one.
+
+However, increasing your freedom _to_ is far more difficult. Unsurprisingly, much of school and society seems focused on making sure you're aware of all the ways your freedom is constrained, not to make you aware of all the original, different paths that people don't tread (though you can find those too if you look).
+
+Certainly, it is not impossible to learn to expand your freedom _to_ in our society, but how would you go about it in a deliberate manner? How would you go about "practicing" this habit so that when the experimenter (or your HR team, some other bureaucrats, or even your friends) tells _you_ that you don't have any choices, you too can calmly respond that no, you have a lot of choices.
+
+h3. Imagination and freedom
+
+The first thing to do to cultivate this freedom is, I believe, to read. And I don't mean reading newspapers, magazines, or even most non-fiction books. I mean fiction - novels, stories, tales of the imagination.
+
+Why read?
+
+Freedom _to_ is primarily a function of one's imagination. You can see the choices that you can imagine. You can make the decisions that you can conceive of. The best way to expand your imagination is to expose it to the huge variety of situations, problems and resolutions, that are covered in books. Reading is an exercise in stretching your imaginative powers to see things from different points of view, and be exposed to different ways of thinking. Each new way of thinking is like a string to your imagination's bow, and expands your freedom _to_.
+
+Why read fiction[2]?
+
+I'm not trying to say that non-fiction isn't worthwhile. When you want to prepare your mind to deal with the known situations of a specific subject, non-fiction is great - essential even. Much of non-fiction is itself made up of stories (some of which are partly fictional and illustrative), and serves a similar purpose. However, I still feel that great fiction is superior to great non-fiction.
+
+The reason for that is that whereas great books of non-fiction train you to face specific situations and environments that you are interested in (e.g. a book about management might train you to see all your choices in a management context), great books of fiction are much more generic, and provide you with a much more fundamental expansion of your freedom. 
+
+Non-fiction prepares you for existing and expected situations. Fiction prepares you for new and unexpected situations.
+
+This is why fiction is, in my opinion, superior to non-fiction. Instead of preparing you for a specific topic, it prepares you for life.
+
+h3. Deliberate practice
+
+Apart from making a point of reading great books (see footnote 3 to get you started[3]), there are a few ways that you can practice seeing choices where others don't.
+
+The way I like to do it is to watch out for signals that choices are hidden from me. This is usually the case whenever I find myself facing an "impossible" situation - e.g. being told by someone that what I'm trying to do is impossible, when I know that it's not a physical impossibility. This doesn't have to be in a "crisis":http://danieltenner.com/posts/0007-dealing-with-impossible-crises.html - you can encounter these situations all the time, whenever dealing with bureaucracies.
+
+Whenever you get such a signal, pause, take a piece of paper, and write down at least ten different ways that what you're trying to do could be achieved. They don't have to be all plausible - some of them could be clearly very difficult or expensive to engineer (e.g. "charter my own plane and fly the whole school to another country"), but they should all be technically _possible_. Among them will almost certainly be a few that are actually practical if you can just remove a few simple obstacles.
+
+During one of his courses, my father used to ask his students to come up with a list of things that could be done with bricks. They would come with a good number of options, but eventually run out or become repetitive. Then, my father would turn the exercise around, and ask them what could _not_ be done with bricks. This question suddenly expanded their perspective of what was possible - because if you look at it this way, there are very few things you can't make out of matter (which bricks are) if you have the right tools. In fact, there is almost nothing that can't be made from bricks.
+
+The more you practice stretching your perspective in this way, the more you will find your freedom increasing.
+
+h3. In conclusion
+
+Freedom is determined not only by the choices you are restrained from, but by the choices you can see. To increase your freedom, you need to increase your awareness of your choices.
+
+To do this:
+
+* *Read great fiction*: the greatest books that humanity produced will stretch your imagination and present it with new ways of thinking that will increase your freedom
+* *Practice inventing choices*: the deliberate practice of coming up with more choices than what other people can see will have a similar effect.
+
+I hope you find this article useful. Please do post any comments below.
+
+
+<div class="footnotes">
+
+fn1. Of course, those categories are, like all categories, an illusion. Ultimately, there are no clear categories. Things flow into each other gradually, and even where the categories seem clear it is often possible to merge them by taking a different perspective. For the purpose of this article, however, it is useful to consider these two kinds of freedom as separate. Consider it a thought experiment, if you will.
+
+fn2. It's worth noting that I don't mean that you'll get more out of a Tom Clancy thriller than out of a Peter Drucker management book. There is crappy fiction (no matter how entertaining) just as there is great non-fiction. Here I am comparing the best of fiction to the best of non-fiction.
+
+fn3. Here's a list of authors which have written books that I believe are excellent ways to expand your imagination: Hermann Hesse, Thomas Mann, Charles Dickens, Fyodor Dostoievsky, Romain Gary, Charles Dickens, Mark Twain, Gabriel Garcia Marques, Franz Kafka, Mihail Bulgakov, Victor Hugo, Jane Austen, Alexandre Dumas, Jules Verne, Jonathan Swift... There are many more, but if you're stumped for a starting point, start with these.
+
+</div>

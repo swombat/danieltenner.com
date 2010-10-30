@@ -3,81 +3,86 @@ extension: html
 filter:    erb
 ---
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-	"DTD/xhtml1-strict.dtd">
+    "DTD/xhtml1-strict.dtd">
 <% 
-	@all_pages = @pages.find(:all, :in_directory => "posts", :recursive => true, :sort_by => "created_at", :reverse => true){|p| p.path !~ /\/index\.txt$/ && !p.unindexed } 
-	@first_ten = @all_pages[0..9]
-	@first = @all_pages.first
+    @all_pages = @pages.find(:all, :in_directory => "posts", :recursive => true, :sort_by => "created_at", :reverse => true){|p| p.path !~ /\/index\.txt$/ && !p.unindexed } 
+    @first_ten = @all_pages[0..9]
+    @first = @all_pages.first
 -%>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<title>danieltenner.com &mdash; <%= @page.title %></title>
-	<meta name="author" content="<%= @page.author %>" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>danieltenner.com &mdash; <%= @page.title %></title>
+    <meta name="author" content="<%= @page.author %>" />
 
-	<!-- jQuery JavaScript Framework -->
-	<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+    <!-- jQuery JavaScript Framework -->
+    <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
 
-	<link rel="stylesheet" href="/css/blueprint/blueprint/screen.css" type="text/css" media="screen, projection">
-	<link rel="stylesheet" href="/css/blueprint/blueprint/print.css" type="text/css" media="print">	
-	<!--[if IE]><link rel="stylesheet" href="/css/blueprint/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+    <link rel="stylesheet" href="/css/blueprint/blueprint/screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="/css/blueprint/blueprint/print.css" type="text/css" media="print">    
+    <!--[if IE]><link rel="stylesheet" href="/css/blueprint/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
 
    <!-- Homepage CSS -->
    <link rel="stylesheet" href="/css/colors.css" type="text/css" media="screen, projection" />
    <link rel="stylesheet" href="/css/typography.css" type="text/css" media="screen, projection" />
    <link rel="stylesheet" href="/css/positioning.css" type="text/css" media="screen, projection" />
-	
-	<!-- Feed Discovery -->
+    
+    <!-- Feed Discovery -->
    <link rel="alternate" type="application/atom+xml" title="RSS feed" href="http://feeds2.feedburner.com/danieltenner" />
 
 </head>
 
 <body>
-	<div align="center">
-		<div id="header" onclick="document.location = '/'">
-		</div>
-		<div id="body">
-			<div align="left">
-				<%= @content %>
-			</div>
-		</div>
-		<div id="footer_top">
-		</div>
-		<div id="footer">
-			<div align="left">
-				<div id="footer-left-column">
-					<h3>Recent posts</h3>
-						<% @all_pages.each do |page| -%>
-						<div class="item"><a href="<%= page.url%>"><%= page.title %></a></div>
-						<% end -%>
-				</div>
-				<div id="footer-right-column">
-					<div align="center" width="100%">
-						<h3>Follow this blog</h3>
-						<a href="http://feeds2.feedburner.com/danieltenner"><img src="/images/rss.png" border="0" width="128" height="128"></a>
-					</div>
-				</div>
-				<div class="clear">
-				</div>
-			</div>
-		</div>
-		<div id="footer_bottom">
-		</div>
-	</div>
+    <div align="center">
+        <div id="header" onclick="document.location = '/'">
+        </div>
+        <div id="body">
+            <div align="left">
+                <%= @content %>
+            </div>
+        </div>
+        <div id="footer_top">
+        </div>
+        <div id="footer">
+            <div align="left">
+                <div id="footer-left-column">
+                    <h3>Recent posts</h3>
+                        <% @all_pages.each do |page| -%>
+                        <div class="item"><a href="<%= page.url%>"><%= page.title %></a></div>
+                        <% end -%>
+                </div>
+                <div id="footer-right-column">
+                    <div align="center" width="100%">
+                        <h3>Follow this blog</h3>
+                        <a href="http://feeds2.feedburner.com/danieltenner"><img src="/images/rss.png" border="0" width="128" height="128"></a>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <h3>.. or on Twitter</h3>
+                        <a href="http://twitter.com/swombat"><img src="/images/twitter.png" border="0" width="128" height="128"></a>
+                    </div>
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+        </div>
+        <div id="footer_bottom">
+        </div>
+    </div>
 
 <!-- Disqus -->
 <script type="text/javascript">
 //<![CDATA[
 (function() {
-		var links = document.getElementsByTagName('a');
-		var query = '?';
-		for(var i = 0; i < links.length; i++) {
-			if(links[i].href.indexOf('#disqus_thread') >= 0) {
-				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
-			}
-		}
-		document.write('<script type="text/javascript" src="http://disqus.com/forums/danieltennercom/get_num_replies.js' + query + '"></' + 'script>');
-	})();
+        var links = document.getElementsByTagName('a');
+        var query = '?';
+        for(var i = 0; i < links.length; i++) {
+            if(links[i].href.indexOf('#disqus_thread') >= 0) {
+                query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+            }
+        }
+        document.write('<script type="text/javascript" src="http://disqus.com/forums/danieltennercom/get_num_replies.js' + query + '"></' + 'script>');
+    })();
 //]]>
 </script>
 

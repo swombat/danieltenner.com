@@ -1,0 +1,211 @@
+---
+title:      How to lose weight
+created_at: 2010-06-20 23:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Life
+subtitle:   What worked for me, with graphs
+excerpt:    "This article presents just one method of losing weight. It's worked very, very well for me. It doesn't require an extreme diet, it doesn't require much money (you'll save money, in fact), and it doesn't require extreme amounts of willpower. All it requires is a bit of method and preparation.<br/><br/>I've gone through this \"diet\" three times (see graphs). The first time I went from 83kg to 75.5kg over about 3 months. The second time, from 80kg to 71kg over 4 months. My latest iteration of this diet has me down from 75kg to 68.5kg in about 2 months. When I started my first version of this diet, two and a half years ago, I was, according to my scale, at about 22% body fat (well into \"overweight\"). I am now at 14.3%, which is just below the middle of the \"normal\" range for men. I still have a little bit of belly fat, but considerably less than I used to."
+layout:     post
+filter:
+  - textile
+---
+
+This article presents just one method of losing weight. It's worked very, very well for me. It doesn't require an extreme diet, it doesn't require much money (you'll save money, in fact), and it doesn't require extreme amounts of willpower. All it requires is a bit of method and preparation.
+
+I've gone through this "diet" three times (see graphs). The first time I went from 83kg to 75.5kg over about 3 months. The second time, from 80kg to 71kg over 4 months. My latest iteration of this diet has me down from 75kg to 68.5kg in about 2 months. When I started my first version of this diet, two and a half years ago, I was, according to my scale, at about 22% body fat (well into "overweight"). I am now at 14.3%, which is just below the middle of the "normal" range for men. I still have a little bit of belly fat, but considerably less than I used to.
+
+_Usual disclaimers: this worked for me, it may not work for you. I provide it with no suggestion that it will do you any good. It is not a way to get fit, or a way to get a six-pack, or a way to get healthy. I have no idea if it will work for obese people, because I've never been obese. I suspect it won't hurt to try, and I'd love to hear about any successes, but I provide this information as-is. Make whatever use of it you like._
+
+<div align="center" style="padding-bottom: 15px">
+
+  <a href="/images/posts/0018-01-full.png" style="border: none"><img src="/images/posts/0018-01-thumb.png" border="0"></a>
+
+</div>
+
+h3. Willpower
+
+Before I tried this approach, I tried to "diet" in a number of ways, mostly by telling myself that I'd be eating less, and making a concerted effort to not heap huge amounts of food onto my plate at every occasion[1]. None of those "dieting efforts" paid off, even though I really wanted to lose weight.
+
+Fundamentally, losing weight is extremely simple: eat less than you spend. No diet can side-step this fundamental fact. If you eat a lot less than you spend, you'll probably lose weight in an unhealthy way (your body will eat through your muscle tissue and even your organs if you push it hard enough - even if you still have fat left). If you eat a little less than you spend, you will lose weight in a slow and relatively predictable fashion[2].
+
+So why is it so bloody hard to lose weight? My theory is, the hardest thing with losing weight is not figuring out what to eat (or not eat). It's actually not eating when you're hungry.
+
+When my body wants food, it is _extremely_ good at convincing me to eat.
+
+So really, *losing weight is much more about willpower than about preparing and eating meals*. This is why most of the advice below is about generating and sustaining willpower, rather than about eating. I firmly believe that anyone who wants to lose weight enough and is smart enough about sustaining the willpower to do so, will lose however much weight they want to lose.
+
+Without further ado, onto the method.
+
+<div align="center" style="padding-bottom: 15px">
+
+  <a href="/images/posts/0018-02-full.png" style="border: none"><img src="/images/posts/0018-02-thumb.png" border="0"></a>
+
+</div>
+
+h3. Step 1: Weigh yourself every day
+
+The first piece of advice is to weigh yourself every morning. Wake up, go to the toilet, and then step on the scale. Record that weight (more on this in step 2). Do this every day, at the same time every day. If you do it later than usual, you'll be lighter. If you do it after eating breakfast, you'll be (potentially a lot) heavier. If you wake up really early, you will be lighter.
+
+A lot of weight-loss guides claim that you should only weigh yourself every week or two, because "the weight loss is not that visible otherwise". Bullcrap. Weighing yourself first thing in the morning helps put you in the right state of mind to sustain your diet. Thinking about your weight every morning means that you'll keep on thinking about your weight loss and stay motivated about it. The surest sign that my diet was failing was when I "forgot" to weigh myself for a week or two.
+
+This is the most important step, and has nothing to do with what you eat.
+
+Buy a body fat percentage scale. They are wildly inaccurate, but if you weigh yourself at the same time every day, you will get a rough idea of the trend of your body fat percentage. This is important because not all weight loss is equal. You want to lose mostly fat, not mostly muscle. A body fat percentage scale will keep reminding you that starving yourself is no good, since your body fat percentage will go up or stay steady when you do that, but it will go down along with your weight when you diet healthily.
+
+*Weigh yourself every day*.
+
+h3. Step 2: Graph your weight
+
+You might feel silly at first. You will feel delighted once you see how well this works.
+
+During your weight loss, you will inevitably have some slips. Someone will sweet-talk you into having a big dinner. There'll be that one day of actual real summer (with genuine sunshine) in London, and so you'll have to have a bbq or wait for the next one (a year later). These things happen. _Errare humanum est_ (to err is human).
+
+If you only weigh yourself every morning without graphing it, then when you slip you will feel demoralised, because you will have gone up by a kilo and a half. That feels really harsh when it took you two weeks to lose that weight, and it might sap your willpower enough to give up.
+
+A graph of your weight will give you perspective. When you can see a lovely straight line from 81kg to 76kg, an unfortunate bounce back up to 77.5kg isn't such a drama. Thanks to the graph, you'll see the mishap for what it is - a temporary mistake. It will also be hugely heartening to see the "bump" go straight back down over the next couple of days (assuming you don't continue stuffing yourself!). 
+
+Have a look at my graphs - what do you see? The dead cat bounces along the way, or the irresistible, stock-market-like slide downwards?
+
+*Graph your weight every day*.
+
+h3. Step 3: Eat less
+
+There has to be one step about eating, eh?
+
+You won't lose weight unless you eat less. Any number of systems work, but I recommend a system that doesn't involve starving yourself of essential nutrients. Continue to eat balanced. That includes fat, protein, carbs, fresh fruit, fresh vegetables, plenty of water, and nothing in excess (even water is deadly in large quantities).
+
+For me, the method that worked best and with the least expenditure of will-power was what I called "front-loading the day", or the "big breakfast" diet. For the first two stints of this diet, I had my meals in reverse. My breakfast would involve stuffing myself with as much food as I could fit in my morning stomach. I followed that with a light lunch around 2-3pm, and then almost no dinner (or a low-calorie snack if I was hungry - examples in the appendix).
+
+This "big breakfast" diet worked for me because I _need_ to feel full once a day to be satisfied. But at breakfast, you're more easily filled up. An 800-1000 calorie breakfast feels huge and very satisfying, whereas you can easily engulf one and a half times as many calories for dinner and feel only a bit full. Having one meal a day where you know you'll be feeling stuffed also means it's easier to last through the food-less evening, since you have a nice massive breakfast to look forward to.
+
+For my latest weight-loss campaign, I'm having a small breakfast and a bigger lunch. That's clearly working too, but I think the "big breakfast" variant was definitely easier. Another advantage I have nowadays is that I have less pressure to eat a proper dinner, since my girlfriend also skips dinner[3].
+
+It's worth pointing out that for the first 3 to 5 days, you will feel very hungry in the evening. Have plenty of low-calorie snacks at hand (see appendix). Take heart: after the first few days, you don't feel all that hungry in the evening anymore. You _can_ eat if you must, but you're not devoured by hunger anymore. I have actually sat by while others ate a delicious dinner and not felt hungry.
+
+What to eat for breakfast? Anything you want, but I've had good luck with a full english breakfast (boiled+fried potatoes, eggs, bacon, the lot - no hash browns though), french-style crèpes (with ham and cheese - 5 small crèpes make for a very filling breakfast), and massive ham-and-cheese toasties (cooked in the oven).
+
+If you don't have any better ideas, I recommend you do what I did. *Big breakfast (eat as much as you can!), light lunch, no dinner*.
+
+h3. That's it.
+
+With those three simple principles I went from 83kg/22% two and a half years ago to 68.5kg/14.3% today (and it's still dropping, I'm not done with this yet). All my friends will tell you that I have an extremely healthy appetite - I used to eat large portions of everything. I still do, sometimes. I love food, and consider it one of the pleasures of life. Eating less without the steps above is pretty much impossible for me.
+
+And yet, I have done all this without ever feeling like I was making a titanic effort. I wouldn't say it was _easy_, but the hardest step was really to do what most people consider downright weird: i.e. chart my weight, and decline to eat dinner[4].
+
+Thanks to this approach, I feel in control of my weight, which is nice. I've never really fancied getting fat, and it looks like I'll be able to avoid that for the foreseeable future.
+
+Thanks for reading this far. The rest of the article contains some additional tips that don't fit within the three steps of the method. It's helpful advice, I think, but not critical.
+
+<div align="center" style="padding-bottom: 15px">
+
+  <a href="/images/posts/0018-03-full.png" style="border: none"><img src="/images/posts/0018-03-thumb.png" border="0"></a>
+
+</div>
+
+h3. Summary:
+
+* *Successful weight loss is about willpower, not food*
+* *Step 1: Weigh yourself every day*, including body fat percentage
+* *Step 2: Chart your weight and BF%*, update every day
+* *Step 3: Eat less*, for example, by eating a big breakfast, light lunch, and no dinner
+
+Enjoy your new lower weight! It feels great.
+
+<div class="footnotes">
+
+fn1. I didn't try the crazy diets like Atkins or the Maple Syrup diet. Anything that requires eating crazy stuff is probably bad for your health. If you're looking to lose a lot of weight quickly and don't care about the health implication, just try amputation. It'll be quick and the weight is guaranteed not to come back.
+
+fn2. A good rate to aim for is between 0.5kg and 1kg a week. Whenever I observe myself losing more than that, I eat a little more to slow down the weight loss.
+
+fn3. Don't eat dinner on this diet. If you eat a proper dinner even twice a week, that'll be enough to negate any weight loss. Dinners, especially in restaurants, often have _huge_ amounts of calories. They also cost a lot - skipping dinner will save you lots of money.
+
+fn4. It can be really hard to decline eating dinner, particularly if you have a partner. In fact, if you have a partner, I don't recommend this diet, because it will put a huge strain on your relationship (it did for mine - to breaking point and beyond).
+
+h3. Appendix - further tips and thoughts
+
+h4. Initial dip
+
+If you do the "Big Breakfast" approach, you will lose 2-3kg in the first week. That's not real weight loss - most of it is due to the fact that you're not eating dinner anymore, which makes morning a really light time for you. Once you start eating dinner again, you will regain 1-2kg of morning weight.
+
+h4. Weight variations
+
+Your weight varies because of more than food. The average human breathes 11,000 liters of air a day. At 36 grams a liter, that's over 400 kilograms of air. And we drink about 2-3 liters a day (2-3kg). In comparison, 2,500 calories of carbohydrates weigh about 500 grams. It's no surprise that small differences in what you eat are swamped out on a daily basis. Trends, however, don't lie.
+
+h4. Calorie counting
+
+I did calorie counting for a couple of weeks once. I don't think it's worthwhile in the long term (and it will drive most people nuts), but it's a good idea to do so just to get a good idea of what foods contain lots of calories. You will be shocked at just how many calories are contained in just one table-spoon of oil. It will change your stir-frying habits forever (hint: a bit of water works just as well to prevent stuff from burning).
+
+h4. Cooking
+
+Learn to cook. It's easy, it's a lot of fun, and it's by far the best way to eat healthy, satisfying meals that have the right amount of calories for your lifestyle.
+
+h4. Exercise
+
+You'll notice this plan says nothing of exercise. That's because you don't need to exercise to lose weight. In my case, I've found that exercise, by stimulating hunger, actually makes it harder to eat less. Whereas the weighing and charting generates motivation, exercise sucks it away. In the context of a healthy lifestyle, of course, exercise is very important. I just don't think it's that helpful for weight loss. "Some":http://bjsm.bmj.com/content/early/2009/09/29/bjsm.2009.065557.abstract "notable":http://www.time.com/time/health/article/0,8599,1914857,00.html "publications":http://well.blogs.nytimes.com/2009/11/04/phys-ed-why-doesnt-exercise-lead-to-weight-loss/ agree with me.
+
+h4. Processed foods / pre-made meals
+
+Avoid processed foods. They usually contain more calories and fewer nutrients. The closer you can get to "whole-grain", the better. Brown rice beats white rice any day.
+
+Pre-made meals are often the same, but you can find some exceptions. Examine the labelling carefully before eating.
+
+h4. Sugary drinks
+
+Avoid. Until you're in control of your weight, stay away from those altogether. They contain stupid amounts of calories. One little can of Coke contains 140 calories, all of it sugar. That's like 7 teaspoons of sugar, for just one drink.
+
+Soda drinks from junk food shops (e.g. McDonald's) are even worse. They are sugared up to the max. If you really really want to treat yourself to a junk burger, have it without the soft drink. 
+
+h4. Sugar
+
+There's truly astounding amounts of sugar in a lot of foods. In moderate quantities, though, sugar is not that bad. Don't feel bad about putting a couple of teaspoons of sugar in your morning coffee if it makes your day a lot better. You can have three of those coffees and still not make up for a single can of Coke.
+
+h4. Beer
+
+A whole pint of beer contains about 180 calories. That might sound like a lot, and it is, if you drink a lot of beer. However, in the greater scheme of things, I've found beer to be less of a problem - particularly on a no-dinner diet, where you get drunk really quickly and will rarely have more than two or three pints. Don't make it a daily habit, but don't feel too bad about having a couple of pints on friday after work, especially if you've earned it!
+
+h4. Anorexia
+
+Don't use a mirror to gauge your weight. That's the surest way to anorexia. Lose weight to look better if you want (I do), but use an objective measure. Human beings are really bad at judging how fat they are using mirrors. They consistently over-estimate by a huge margin.
+
+h4. Healthy, very-low-calorie foods
+
+What can you eat if you're _really_ hungry but it's dinner time? Try one of these:
+
+* Instant miso soup (should be about 20 calories and very filling)
+* Cucumber, sliced lengthwise, drizzled with soy sauce (about 50 calories)
+* Red peppers, sliced, with some salt ground on top (about 50 calories)
+* Rice crackers (about 16 calories each)
+* Low-fat yoghurt (about 60 calories for the Danone Activia ones)
+* Two big glasses of water (0 calories!)
+
+Typically, the hunger will go away within half an hour. If no, wait another half hour, then have another snack.
+
+h4. Low-fat / Low-sugar
+
+A lot of scumbags in the food industry label high-fat foods "low sugar" and high-sugar foods "low fat". Even a low-fat _and_ low-sugar food can be high-calorie. Always check the label properly.
+
+h4. Fat
+
+Fat is great for you. Don't cut down on fat, cut down on overall food intake. Great sources of fat: olive oil, fish, nuts. I also like whole milk, and freshly cooked meat, but the general wisdom says that animal fats are not as good for you. It's worth pointing out that most of my breakfasts through my first two weight-loss stints involved copious amounts of animal fat. The point is, fat might be good or bad for your health, but it's neutral as far as weight loss is concerned: only calories count.
+
+h4. Dense, unfilling foods
+
+Some types of food are very calorie-dense but not very filling. Oil and butter are the obvious examples (though they can be filling when used right). Other examples include processed fried foods (like pre-fried hash browns or french fries), dried fruits and nuts (see lower), sweets, chocolate bars, fruit juices (sadly), and so on. Always check the label. If it's high-calorie but doesn't seem very filling, it'll probably leave you wanting.
+
+h4. Water
+
+Often, when you think you want to eat something, you're just thirsty. Before eating a snack, ask yourself whether you're thirsty. If so, try a glass of water first, then eat half an hour later if still hungry.
+
+h4. Dried fruit and nuts
+
+This has quite a bit of calories and isn't very filling. It's nice and healthy, but don't abuse it. Remember, what counts is not how healthy it is, but how many calories it has.
+
+h4. Fresh fruit
+
+Some fruit has lots of calories (e.g. grapes), but in general I've made it a rule never to forbid myself to eat fresh fruit, if I have some at hand. I'm beginning to think that it's almost impossible to overeat on fresh fruit.
+
+h4. What about after the diet?
+
+Keep recording and charting your weight pretty much forever, but return to a normal diet, making small adjustments based on the general trends that you observe on your graphs. So far, my observation has been that as long as I continued charting my weight, I did not regain any weight. I only ever gain weight when not charting my weight.
+
+</div>

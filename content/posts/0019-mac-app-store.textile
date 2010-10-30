@@ -1,0 +1,60 @@
+---
+title:      The Mac App Store vs the Web App World
+created_at: 2010-10-29 20:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Apple
+subtitle:   Creative Disruption
+excerpt:    "Everyone agrees that the App Store for the Mac is a \"Really Big Deal\", as Marco Arment puts it. One thing that I think most analysis is still missing is the huge impact that it will have on the world of web apps and startups. Here's how it will happen."
+layout:     post
+hnid:       1848236
+filter:
+  - textile
+---
+
+Everyone agrees that the App Store for the Mac is a "Really Big Deal", as Marco Arment "puts it":http://www.marco.org/1432156914.
+
+One thing that I think most analysis is still missing is the huge impact that it will have on the world of web apps and startups. Here's how it will happen.
+
+<div style="float:right; padding-left: 10px">
+  <image src="/images/posts/0019-02.jpg">
+</div>
+
+h2. A sensible choice
+
+Currently, the most sensible way to develop software and make money from it is as a web application. It gets around the problems of piracy, distribution of updates, and it makes use of the awesome platform that is the web. Sure, it is possible to make money (even large amounts of money) selling one-off software licences, but compared to selling recurring licences for a web app, it's a dying model.
+
+That's very sensible, and I expect people to continue developing web applications in the future. There's a whole class of applications which can _only_ exist as web applications. And many of those applications can only be sold as SaaS. But, for a number of applications, the SaaS model is only viable because it eliminates piracy and distribution problems.
+
+<div style="float:right; padding-left: 10px">
+  <image src="/images/posts/0019-01.jpg">
+</div>
+
+h2. Enter the App Store
+
+Who's developing all those iOS apps? Obviously, a lot of iOS developers are former Mac developers. But, if you poke around *web developer* communities, you'll see one obvious trend: almost everyone is either very interested in building some kind of iOS app, or is already doing so. This seems to affect almost every web developer community, from Flash/Flex to RoR including Python along the way. A lot of bleeding edge web developers use Macs, and a lot of them are lusting over iOS and want to build apps for it.
+
+So a lot of iOS apps are likely to be developed (in the past and in the future) by web developers, if only because they make a nice mobile client for their existing web application.
+
+<div style="float:right; padding-left: 10px">
+  <image src="/images/posts/0019-03.jpg">
+</div>
+
+h2. Enter the Mac App Store
+
+Why would you deal with all the angst of writing a billing system, why would you maintain servers, deal with hairy scalability issues, deal with the craptastic reality of Internet Explorer, why would you do all this if you can just plug into the App Store and let it handle all the headaches? Why would you go through the pain of scaling severs when you can just distribute bits and bytes for free?[1]
+
+Sure, for some apps, it will still make sense to be on the web, or even to be only or mostly on the web. But for many, the web is a shortcut to avoid the problems of piracy and distribution. And the web is a shortcut with a lot of headaches. It's a lot simpler to build an iOS/MacOS app and distribute it through the App Store than to run web servers and keep them up to date and build billing systems and maintain mailing lists and so on[2].
+
+To put a final nail in the web-coffin, a lot of web developers have already gotten acquainted with the fundamental tools for building Mac OS apps while building their iOS satellite apps. It'll be an easy transition for them to build their next app solely in the Mac ecosystem and avoid all the headaches of the web world.
+
+I expect that Marco Arment is completely right in his article. The Mac App store will dwarf the existing mac software world (which is already sizeable). More than that, I also expect that the main source of developers for that brave new world will be the web (to the online world's expense).
+
+Death or no death, it looks like the Mac App Store is on its way to becoming the largest disruption to the web for this decade.
+
+<div class="footnotes">
+
+fn1. Yes, of course, the Mac App Store doesn't run on Windows. And the iOS app store doesn't run on Android. That hasn't stopped anyone.
+
+fn2. Another side-effect I expect is that the Apple ecosystem will get even more of an edge over the Microsoft ecosystem, since people who would otherwise have built cross-browser applications will often build applications that work as Apple-only products.
+
+</div>

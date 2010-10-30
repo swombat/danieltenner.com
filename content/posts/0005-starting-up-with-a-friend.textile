@@ -53,7 +53,9 @@ Here's an explicit agreement that's not detailed enough: "We want the business t
 
 h3. 3. Don't be afraid of discussing the bad stuff
 
-!>/images/posts/0005-02.png (This really happened!)!
+<div style="float: right">
+    <img src="/images/posts/0005-02.png" alt="This really happened!"/>
+</div>
 
 There are a number of subjects which seem almost embarrassing to discuss when things are going well. For example, "What if one of us decides to pull out?" Your first reaction to this topic might be "What? We're barely getting started, and already we're talking about what happens if one of us pulls out?"
 

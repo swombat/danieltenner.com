@@ -1,0 +1,103 @@
+---
+title:      How to nap
+created_at: 2010-03-23 23:00:00.000000 -00:00
+author:     Daniel Tenner
+category:   Life
+subtitle:   Power napping without sleeping
+excerpt:    "I am the kind of person who takes 30 minutes to an hour to fall asleep, most nights. Falling asleep is an ordeal for me (unless I'm completely exhausted). Don't get me wrong - it's not an unpleasant ordeal... there are worse things in life than lying in bed. But I truly envy those people who can just put their head on a pillow and drift off within moments. Oh, such bliss... not for me. I will lie in bed, awake, forever thinking and rethinking whatever happens to be on my mind at the time."
+layout:     post
+hnid:       1214287
+filter:
+  - textile
+---
+
+I am the kind of person who takes 30 minutes to an hour to fall asleep, most nights. Falling asleep is an ordeal for me (unless I'm completely exhausted). Don't get me wrong - it's not an unpleasant ordeal... there are worse things in life than lying in bed. But I truly envy those people who can just put their head on a pillow and drift off within moments. Oh, such bliss... not for me. I will lie in bed, awake, forever thinking and rethinking whatever happens to be on my mind at the time.
+
+Because of this, I always thought that power napping was not for me. After all, power naps are supposed to last about 20 minutes, and you don't need to be a maths genius to realise that if it takes you _at least_ half an hour to fall asleep, 20 minutes won't be enough. So, therefore, I thought, since I can't fall asleep quickly, I can't nap.
+
+Fortunately for me, I was completely wrong about this.
+
+<div align="center">
+    
+!/images/posts/0017-01.jpg!
+    
+</div>
+
+
+h3. Napping isn't sleeping
+
+The reason I was wrong is, *napping is not sleeping*. To get the benefit of a refreshing power nap, you don't need to fall asleep. It's enough to relax yourself and let your thoughts drift off, even while remaining mostly awake. If you can do this properly (it does take some practice), you can power nap even if you find it impossible to fall asleep quickly.
+
+I learned how to nap when I was starting my first start-up, while still working full time at Accenture. It was a pretty hard time for me, and I was constantly tired. Learning to nap allowed me to keep performing in both my job (during the daytime) and my start-up (in the morning and evening), despite my chronic lack of sleep. It's great to be able to magically transition from a state of mind-numbing exhaustion into a fresh, wakeful mind, in just 20 minutes.
+
+h3. Pzizz
+
+The way I learned to nap was with a tool called "Pzizz":http://www.pzizz.com/. What Pzizz does is to generate soundtracks for your nap. They use a fancy thing called a "binaural beat":http://en.wikipedia.org/wiki/Binaural_beats, combined with a hypnotherapy track, to help pull you into the depth of a good nap. When I tried Pzizz, I discovered, to my surprise, that I could listen to it for 15, 20 minutes, while sitting on a bench (or hiding in the toilet at work), and when it was over, I felt completely refreshed, ready to face several more hours of work.
+
+All I needed was to have one of those tracks on my iPod, and bingo - I could gain the benefit of naps even though, as I knew, it was impossible for me to nap.
+
+<div align="center">
+    
+!/images/posts/0017-02.jpg!
+    
+</div>
+
+h3. Pzizz without the Pzizz
+
+Fast forward a couple of years. I don't use Pzizz anymore, but I now nap up to three, four times a day, whenever I feel a wave of drowsiness overpowering me.
+
+After quitting my Accenture job, I went through a phase where I tried to nap without Pzizz. At first, what I found is that most of my naps were refreshing, but not as refreshing as if I'd used Pzizz. But the important difference from before I'd tried Pzizz was that *I knew what I was aiming for*. With practice, I eventually got my Pzizz-less naps to be just as effective as they'd been with Pzizz - better, even, since now I don't need to wear headphones or listen to a distracting voice while napping.
+
+Now, I can nap in almost any position where I can relax (lying across two chairs mostly works, though I still much prefer a couch or a bed). I can even nap in a relatively noisy environment (so long as the noise isn't someone speaking). Within 20 minutes, I will drift off to a zone where I don't feel like I'm asleep, but my brain is actually pretty much in the REM zone (it feels like dreaming awake). After those 20 minutes, my alarm clock will wake me up, feeling refreshed, and that feeling lasts for up to several hours.
+
+As a final step, I'm now practicing napping without an alarm clock. It's going well so far.
+
+h3. So, what should you do to learn to nap?[1]
+
+I think most people should be able to get from "completely unable to nap" to "can nap in most circumstances" within a few months. It took me about 6 months to get it consistently right without any hypnotic tracks, earplugs, or other aides.
+
+The hardest hurdle to get across is, I believe, just realising that napping isn't sleeping, and that you can learn to nap even if it takes you ages to fall asleep. Hopefully this article got that point across.
+
+Next, you need to learn what to aim for. Until you've had a successful nap-like experience, it's pretty hard to practice it. The way _I_ learned that was with Pzizz. You may find different, perhaps better ways to learn that (please do share them in the comments). Some ideas include meditation classes and hypnotherapy recordings. There are also a number of binaural beat applications on the iPhone, including some free ones, but I haven't yet found one that worked to my satisfaction (that said, I haven't looked that hard).
+
+The best way I can describe the feeling of napping is that you lie down or sit somewhere, and first focus on relaxing. Relax your muscle groups one by one, from your neck all the way down to your toes. Take a good minute or two to do this properly. Then finally you relax your thoughts. Let them drift off. It's important to gently nudge those thoughts towards more relaxing topics - you won't nap very well if you're rehearsing a conversation with the boss - but at the same time, they need to largely drift on their own. Keep your eyes closed, your body relaxed, and let your thoughts meander from subject to subject without much order.
+
+Once you've learned what to aim for, it's just a matter of practicing it. It takes time (you can only nap a few times each day!), but it's very rewarding. 
+
+<div align="center">
+    
+!/images/posts/0017-03.jpg!
+    
+</div>
+
+h3. Some final thoughts on napping
+
+First of all, don't go over your 20 minute target. You may find that your target window is slightly shorter or slightly longer, but whatever you do don't over-sleep. "This":http://webworkerdaily.com/2007/03/27/nap-your-way-to-success/ is a good article on the subject. When your alarm clock rings, get up, even if you feel drowsy for the first few moments. If you stay down, you risk going from the REM sleep mode into slow-wave sleep, which would require you to stay in bed for 90-120 minutes before your sleep cycle is complete. If you get up, the drowsiness will vanish in a minute or two.
+
+So, paradoxically, napping longer makes you drowsy, not rested.
+
+With 3-4 power naps through the day, I've found that I could, on occasion, drastically reduce my need for sleep. I've done it for a week or two at a time, basically sleeping only about 2-4 hours a night, without any apparent ill-effects during the day. I'm still undecided as to whether that's something that I can or want to pursue as a longer term lifestyle change. Polyphasic sleep has its benefits and its drawbacks.
+
+Another point worth highlighting is that napping is not just a cure for drowsiness. It's also simply a way to make yourself more alert. And, importantly, it works, and feels, far better than any caffeinated drink. If you have a choice between drinking a strong coffee or having a 20 minute nap, always take the nap - you'll feel more alert and smarter after the nap, and its after-effects will last longer.
+
+Finally, the "Wakemate":http://www.wakemate.com guys inform me that it is also possible to do a 90-120 minute nap, which goes through a full sleep cycle. The difficulty there is to get the wake-up time right. Apparently their product should be able to help with that. We'll see (I'm signed up to get a unit when they ship!)...
+
+h3. In summary
+
+TL;DR? Here's the Cliff notes:
+
+* *You don't have to actually fall asleep to nap* - it's enough to drift off to a half-sleep state
+* *Even if it normally takes you 30+ minutes to fall asleep, you can benefit from 20 minute power naps*
+* *First, learn what you're aiming for*, for example by using something like "pzizz":http://www.pzizz.com
+* *Then, practice reproducing that feeling* - plan for a few months before you get good at it
+* *Don't over-sleep when power-napping*, it will only make you feel groggy
+
+Good luck with your napping! I would love to hear your comments below, especially if you have more tips for people who are trying to learn to nap.
+
+<div class="footnotes">
+
+fn1. Please note that the approach I present here is what worked for me. I'm sure there are as many different approaches to learning to nap as there are people in the world. This is not meant to be a scientific guide to napping, merely an inspirational description of one approach that worked.
+
+Thanks to "Scott Wheeler":http://twitter.com/scotchi, "Yousef Syed":http://twitter.com/musashi007, "Greg Nemeth":http://twitter.com/SleepSmarter and "Mike Gunderloy":http://twitter.com/mikeg1 for reviewing a draft of this article, and particular thanks for "Colin Curtin":http://twitter.com/perplexes for needling me into finally publishing it!
+
+</div>
